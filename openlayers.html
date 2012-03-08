@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Open Layers Choropleth</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="styles/map.css"/>
+</head>
+<body>
+	<div id="page">
+		<a href="index.html">maps</a>
+		<h1>Open Layers</h1>
+		<div id="map" style="width:800px;height:400px;"></div>
+		<p><a href="#" id="map-repaint">Repaint</a> (assigns new random values to all geographies)<br/>
+			<a href="#" id="map-recalibrate">Recalibrate</a> (switches color palette breaks)</p>
+		<p><a href="js/openlayers-choropleth.js">Javascript</a> | <a href="maps/world.json">data</a></p>
+	</div>
+</body>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="openlayers/OpenLayers.js"></script>
+<script type="text/javascript" src="js/map-tooltip.js"></script>
+<script type="text/javascript" src="js/openlayers-choropleth.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+		openLayersChoropleth.init('map', 'maps/world.json');
+		
+		$('#map-repaint').click(function(evt){
+			openLayersChoropleth.repaint();
+		});
+		$('#map-recalibrate').click(function(evt){
+			openLayersChoropleth.recalibrate();
+		});
+	});
+</script>
+
+</html>

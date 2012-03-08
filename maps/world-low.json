@@ -1,0 +1,705 @@
+[{
+    "id": "AR",
+    "label": "Argentina",
+    "shape": ["nrlbI~_s_L~zm@~tu@~f{C_neF~axB_rpL~bmAnz~F_xq@nvjLo|bL_|BnjcA_ieA", "nj}eCnxhpK_|B_klB~lV_etB~{_Covs@o|hD_fiA~zm@_||FnsqHoj}HnqjGowyRnggA_db@nuxI~efE~lV_rmP_ibE_cjEo|hD_pRnnT_poCnezGowH~yuE~x}Jnz{J~jfJninB~`f@~_kIndkA~dtBowHnwH~tu@~_qA~oR~efE_vJ~iwC__yF~~{Bnbd@~qvD_skCnpuH~h_Inp{@~z{W~gpB_ieA~zgHnggAowH~cvO~dqF_mV~heA_klB_ieA_vgCnofBoe`@nwH~olG~n}@_|_C~{_C~efEnqjG~tu@~zm@ntfG~ooCn`zBnj`E_msC~`f@_cjEnzaC~yxA~oRo{vAn~oEnr|I~nzD~n}@~{BnxwE~iZ__|BnstD~bjEnu~A_}tA~uJ~~{Bo}@_bxB~lsColjB_fiAnvdTou~Anu~A_~fDonT~oR~zjDoikFnaoA_poC_ffEowbG_af@ohyCoweCodhEnnT_ieA_w|A_qdB~iwCo|k@om|Doe`@nnqC_guKnvs@obd@_cmA_ekNozDogdE_{jDo{pInggA_vgCokuCoylDnh\\ogdE_msCourQ~rkC_ibE_vgCor|Ioe`@_a`HoqjGo|bL~tu@onqCofoF_kiF_g^_cjE_ozDnm_AoxzA"]
+}, {
+    "id": "AS",
+    "label": "Australia",
+    "shape": ["~scxFoxttZnggA_a`H_laAoj}H~yoM~}i@_fiA~xcCnkuC~bmA_mV~zjD_i|L~rhG_zxA_|B~uJoaoA", "n`jaAo~xdZ~krTo`wF_{m@oqmC~iwCoe}Cnq~V_ozDntfG_hgNnjzL_{jD_g^_l~DnocFo|k@~p{ModbMnfoFnh\\n_bH_etBn{mM~gpB~_|\\nmsP~qsHnbd@~yxAnsnLnqmC~wkH~|tAoe`@_urD~qvDnvs@nljBo`zBozDnj`EnnnG_}tAnw_K_wyE~vvIonqCo}@o|hD~ooCnljBofrBocvBninBoyo@_xq@nyo@n`wFofrB_`qAoylDnaoA~hbE~heAnnTnvpD_o}@ocvBoqjGorbB_cjE~cb@nieN~mbJoaoA~`cD~{B_cmAo__LnwbG_ffEnxnQ~f{C~ur^~rkCnaiI~trD~ooC~{B~krT~jiFnhsKo|hD~hyP_poC~{Boyo@_skC_mpGozDonhOn_eD_caQndeInvs@__|Bom|DndkAnkuConqC_enJnbaD_|vNo`zB~xcCokX_enJ__sN_`nE_wjY_a`H_y`Go|hD~cb@_d_DonqC~meF_|_CocvB_|Bn_h@_o}@odhEnjcAozD_g^~zm@_g^okXotL~f^_uu@n}@_|_CoqP~s`Bo|k@ozDn}@_g^_ry@_jZ~uJnm_A_fiAowHnzDoqmC_ieAnjcA_|B_etB_cmAnsw@_qdBoxzA~_qAozD_mV_cmA_etB~{Bnp{@ovs@_w|AoinB~`f@_klBnnqConqC~f{C~f^_poC_qdB~|tA_kiFo~rAo_h@_}tAninBo}wJoikFovs@oyfL_ibEnkuC~paFowyRoofB_ycC~|tA~zm@nvs@oggA_nhB_qdBn~rA_`qAnylD~pdBnzD~mhB~ecI~yxA~vsM_eeV~qy@ofoF_uoH_rvDoozQoh\\onT_ieAom_AnjcA_cgI_urD"]
+}, {
+    "id": "AT",
+    "label": "Austria",
+    "shape": ["okthHodlsAnbd@o|hD_}tAom_A~bmA__vJncvB_~i@np{@~rkCnweC_vJ~iZ~bmA~kaAnxqMoxzAnpuHnkX~ecIobd@n|hDo_h@ntLovs@_yFntLoy`To}}B~wq@o}}Bo~oE"]
+}, {
+    "id": "BO",
+    "label": "Belarus",
+    "shape": ["o`xrIoglaD_w|A_uoHnljB_azOne}Cnh\\nwbG_y}J~|tAnb~GnvpDorbB~xF~`cD~c_DndkAoweCnsb\\naoA~whLoljB_yF_af@nxzAo{vAokuC_hmF~|tAo_h@og~LotiC?oaoAodhEodkAn_h@"]
+}, {
+    "id": "BE",
+    "label": "Belgium",
+    "shape": ["_vzwH_zfY_mVnwHonTohyCnqmCom|Dn`zB_mVowH~oRn`zB~}i@_bxB~k~Dnbd@~xcCoxwEnmyH_uu@obaD~{Bo|hDnqP_vJ"]
+}, {
+    "id": "CA",
+    "label": "Canada",
+    "shape": ["_satHnrpgW~n}@_tzIn`tJ_{dL_o}@~mbJorbB_ry@~n}@nzaC_qdB~_qAntL~~{Bosw@o{vAo{vAno`J_w|Aou~A_db@ngdEnkXolgF", "_t_gH~~bgI_pR_jwC~_qAnm|Dn}}B_cmAoinB_skCnu~A~|tAnqP_|_C~zjDnu~A?~pdB_qdBozD~kaA~dtB_hpB_o}@_zxAnm_A~hbEn_bHoqPnsw@obaD_cjE~eiAn}}B_pR~gpB_zxA_cmA~|tAn~oEoggAn}tN_etBoj`En}@~`cDo}}B_~fD~f^_qdB_`qA~kaAotL_qdBofoF_o}@_rvD_a`HntLou~Anbd@~xcCnsw@_ieA~wkH~vyEocvB_vgC~iZ_|_C~gpB~~{B_mVoj`EnrbB~zm@_ieA_owH~cb@osw@naoAncvBnp{@_laA", "orppK~hvhO~gpB_klBoyo@_w|A~nzD_mjOnrbBn|k@~}i@_nbJ~n}@nvpD_poCntcKn~oE~tlL_etBn{vAnkXnb~GorbB_ibEohvGoqP_xq@_bxB", "odswK~mihQ_|B_ycC_msCnu~Aom_A_{m@oofB__vJ_fiA~lVn_h@~nzD_nhBom_AotL_rvD_msCncjRoaoA_poCoyo@~c_Dou~AonT_hpBocpJ_sNncvB~cb@o|eH~_qA_poCnu~A~uJ~xcC_{gH~s`BnkrG~}i@ow|N~oR~s}E~v|AogdEn`zBoe`@ogdE_ozDn~rA_buFnu~A_xq@nggA~gpBn_eD_~fD_{m@oj`E_plG_~fDosw@ou{Eoyo@~qvDofrB~oR~}i@oneS~oRnm|D~heA_brJnp{@nqmC~zm@ohyCnkXnqjGndhE_mpGnxzA~wq@n}}B~arJoofB~pdB~f^njcAoyo@~oRoqPnljB~rN_uu@~oRnfrB_vJo`zBnnqCovpD_laAnozQ~heA_{jDn_eD~}cHo`zBnbrWne}C_|mZ~hbE~meFn}@nqgKnbd@op{@_vJnxzAndkAotL_af@njzLnnqCoihJn|k@nr|In|k@oofB~{_Cn{pI~f^_fiA~n}@~ooC~mbJ~`cD~}fDofrB~jlBnkX_nhB_~i@~{Boj`E~lpGoqmCn~rA~yxAojcA_jqKnj}Ho`e^nsw@ofrBnjcA~qy@_g^ol~Qn__Lo}@~gpBonqCnyo@nm_AnqmC_gxGn~rA~gpBovs@_xnD~gpBohyC_zxA~_qA_w|Ao~rAnu~AoxzA_etBnbd@oweCoofB_}nI~mhBoxzAntiCo}}BoqgK_ffE_hmF_mpGnm_A_urDn~lIo~oE_g{Cnh\\_zxAojcA~lVoyo@ozaC~oRnbaD_w|A_db@_pR~_qA_af@_o}@nwH~xcConqC_skC_poCnweC_uu@o}}B~yxA_f}P_fiAoylD~f{CodeInnTnsw@_yF_skC~cb@np{@nsw@_t`BntLoflJ~hbE~oRn}@nwbGn|k@otfGnrbB~f^nqPoofBn{vA~trDnbd@om_Aobd@_d|Gn}}B_|B~heAndhEovs@om|D_nhB_cmAnrbBnkXodkAoaoA~mhBo}@ostD_y`GnofBom_A_hpBotL_jZozaCo{vA~zm@nnT_hpB_laAnljB_klB_`nEnsw@~heAozD_|_CnrbBo{vAnkX~kaA~cb@_vgC~cb@~xcCnm_AolgFndkA~ooC_db@odhE~s`B~iwC_af@oylDnyo@~}i@~qy@ohyCnkXnzaCnaoAolgFnxzAnp{@oe`@~wnD~jiF_brJobd@_laAnhyCnjcA_laA_xnDnbd@ojcAndkAnrbBou~A_jwC~wq@n|k@~bmA_mmKnalE~}}O_xq@nqmCnsw@_msCn|k@~n}@_g{Cot`Ooe`@ndkAnqP_g{CntiC_yF_laA_{jD~|tAo}}Bnp{@~heA~_qAoaoA~{B~ooCnh\\o_eD?nljB~heA_t`B~{_CncsF~iZ~bgIndhE~olGo}@~ulf@nstDnvpD~jlB~bgInnkK~ntL_brJoozQ_hpBo}qR~n}@_jwC~{Bnm_AndkA_ry@~s`BnzxN~cb@_mmK~rkCninBn}@oinB~`cD_ry@n`zB_mmK_uu@_nhB~gpB_ozDnqmC~xwR~vyE~~xF_cmAnweC_skCom_A~f^njcA_urD_`kI~heAom_A_fiA_g{CnzD~qsHoxzA_|_Cosw@nxzA~v|AnzDn~rAnryM_qdBnfrBoqjGo}@_cmA~fxGnprLngaInyo@nvaX~rhGno`J?~~uJ~f^~yxAn}}Bobd@~s}EnrsUoggAnxzA_xkH_cjEouxInaoAoocFnpuH_tzI~b{Xnvs@nurQ_ycCn`nR__|BnxzA~heAntL?nqogDokXn{vAop{@_ieA~oRndkA_ieA_sNnbd@~f{Cobd@o~rA_zxA~qy@~heAnh\\obd@nhyCorbB_`qA~cb@nqmC_etBovs@nu~A~wnD_af@~jlB_mVo}}BojcAn}@~_qA~s`B_g^n~rAonT_fiA~{B~hbEnnToh\\obd@nrbB_db@_{jD~{Bnu{EorbBoocFn}@~auF__|BotiCnm_A_t`BodkA~uJo}@~yxAoxzAoe`@~jlBnqjGofrB_xq@ozaC~`cDnp{@_zuE_fiA~qvDoaoAo_h@n}}BnzaCorbB~iwCojcA_hpB_mVngdE~xF_qdBom_AnaoA~xF_zxA_{m@~wq@_bxB_vgCnxzA~~{BoqPnwHobd@_~i@_uu@~f^_g^nzDobd@onToweC~p~I_hjJnmyH_vdG~lmKnylDnqgK_gxGnpuH~xFn}wJog}w@?~nzDosyg@oaoA~zm@_klB_fcIoxzAoshTn}zFny}W~iZoinB_jZn~rAonnGotqb@oggA~v|A~~xFo}tN_cmAocvBosw@~eiAoh\\_msC~_qA~uJnzD_zxAnm_AnaoA_`qAo_|Onz~Foimm@~jlBnb~G~lV_}tAo_h@_ns]~rkC_jqK~iZ~dtB~f{CoqjGoinB~s`B~oRozaC_buFne}CotL_d|Gobd@~xF_sNoqmCo_h@_pR~lV~wnD~}i@?~{BntfG~oRosw@_pR~gmFozaCozxNn_h@_poC~n}@nwHne`@ostDn_h@onT~qy@omvLotL_vxVovs@nvs@nxzAoxwEobd@odkA_hpBnpuH~lVoetOnkuC~v|An{vAou{E~rNninB", "_wi{L~rxvT~`f@~dtBoaoAosqHnsw@oo`J~|tA~|tAoh\\_enJ_nhB~k~DnwH_zuEnggA_cjEnpxDohyC_ry@_hpBocsF~bjE_jZoyiH~mhBohvG~meFom|D~s`Bn|k@~wnDod|T~eiAokX~oRnw|N~`f@_zxA~eiAne`@odkA_{jD~n}@_klB~eiA~s}E_pRnmvL_etB~c|GnhyC~ggN~wq@nmmXoqmCnyo@o|k@n{jQ_hpBnvpDojcAobic@_xq@np`d@odkA~}fDoofB_goSnh\\nurQ_ry@oaoA_pRnhvGor_F_tzI_zxAo|_P~gpB_klB", "ou``Lndu~LonqCnb~G~eiA~jfJ_qdBo~oEo~rAnmyHosw@_~i@~`f@n}}Bo{vAnwHou~AnwbG~tu@~gpBnrbB_g{Co|k@nacQnaoAoe}C_cmAnr_Fobd@nvpDnggA_||F~uJnzD?~tu@nqP~lVo|k@nstDn}@nbxOo|k@nqmC_ry@_db@nsw@nvmHo_eDnj}H~oRo`qN_laAnvgP_bxB~}i@osqH_i_I_uu@_jkS~|qE~ecI~qy@ou~AnaoA~cb@~ooCopuH~tu@ntcKntL_piKonqCoe`@_laA~itGo}@ocpJo|hDnyiH~iZ_zrIoggA~}cH~iZ_nbJoyo@~toHou~A_}eUnj`E_||Fnu~Anu{E_xq@_~fD~axBn{vAoyo@_||Fobd@~s`B_db@oggAn|k@ohyCnp{@nbd@ne`@okrG_}tA~|qE~oRoflJop{@~toHop{@opxD~wq@_twM~zm@_{m@~heA~lpGoqPoprL~qy@n`wF~{B_msC~v|An{vA_etBowbG~gpBnu~A_fiA_bxBnbd@_{m@nm_A~pdBo_h@o_eDnsw@nm_A_ycC_acD~bmA_jtGn}}BnezG_}tAow_K~axB~jiF_pR__|BnrbB~eiA_~fD_i_I~bmA~dtB_sNovjL~rkC~zdL_`qA_mjOnofB_|_Cnbd@~kuP~`f@ozuRo}@~qpLnkX_rvDnyo@npxD_db@o_eDnkXoxzA~uJn_eD~cb@ohyC_sNnj}H~cb@_shG~rN~}fDo}@o~rA~xF~zm@nzDoikF~f^nnT_vJ_xnDne`@nocFoqPo}}B~xF_~i@~f^nfrBokXofrBnwH_{m@n|k@~cb@o}@okuCnh\\nljBnwHoggA_laAo{vAnofB~oR_ieAo}zF~kaA~v|A_g^oweC~s`BocvBowH~wnDnqP_acDnvs@nqmCom_A_rsH~pdB~{_C_{m@odeI~_qA_acD~qy@~h_Inp{@opxDokX~efE~kaAo}}BnkX~lpGnqP_cmA~ugCn|k@o_eD~x}JocvBor_F~bmA~toH_}tAo{vAnvs@~dtB_qdB~k~DntLnweCnsw@_zxAo|k@ntiC~dtB_g{C_uu@~ecI~zdLojqXn_h@nm_AninB_zxA_klBnkuCnvpDozaCoqP~axBn~rA_vJoe}CnezG~eiAoqPokuC~rhGndkA_~i@_fiAnz~Fn|eHo{jQnggA~rN_neFn_p_@_cmAnnqCoh\\_urD_sNn{sEofrB~_nEodkA_sNnm_A~lsCoinB~gpB~oRnjcAn~rA_ry@_{m@nu{En~rAn_eDodkAn|eHoylD_msC~zm@ogaInrbB_cmAodkA_db@_~i@~lsCoh\\oo}M_ycCnm|D_zuEosnL_}qEn{sE", "os~aM~dc`Rnh\\_uiPn|hDn_bH~f^o}wJnsw@_~i@~eiAninBnkX_fiAn}@~szInggAo|k@~wq@nweCoezGnenWoggA_etBnjcAo{pIobd@_fiA_{m@nljB_yFoe}C_uu@nihJ~rNolgF_o}@nweC_g^_y`G", "_tgcM~vltP~`f@oo}M~paFn`tJ_|B~qpL~qy@_~fD~v|A~dtBo}@nr_F_g^_zxA_|_C~trDovpD?_fiAoxnQ", "ozhdMnxi|U~xFoetOnnqC_dyKn_eD~aiVnggAnxwE~ooCnsw@n~rA~ntL_{jD~{sRor|IoprL_hpB~hbEntL_je[", "otjlM~t|~Pnm_Ao|hD~jlB_|Bosw@nffR_etB_lxL", "or}rM~suwQ~v|AovpDn{vAn~rA~kaA_|_CntLnylDnbd@ofrBnh\\n}tN_ieAn`zB_ieAoldJnqPnq~V_g^_`kI_ry@nqmCoe`@_qdBn}@~iwC_af@_uu@nljB_seK_sNo{vA_g^ntiCozD_poC_laAnsqHoe`@__sN", "o}xsMnucvSnofBoinBn|k@~n}@~uJokuCn_h@ndkAovs@_cgInaoAopxDnfrB~axBn}}B~kch@ovs@~_kI_klB_lrT_|Bngih@_}tA_mjOnqPnmvL_uu@oryM_yFn`tJ_{m@ohsKokXn`wFo|k@odhE~kaAoo}M~{_C_kiF~xFo~iMoaoA~paF_~i@onqC_uu@~|qE_`qA_zrI", "_xiuM~qzfQ~n}@_kcNnjcAnggA_ry@_~`LndkA_a}K~xF~bdMnbaD_pfO_fiAogfl@~heAow_KnaoAn|hDnh\\oxwEn~rA~jcN_}tA~_kI~n}@_yF~rN~c_D?nguXoaoAnwH~wq@n~fQ_klBnpxDo}}B_fiA_t`Bnm|DnkX~e`MoqP_hpBoaoA~zdLom_A_||F", "_pgxMnrceUn|k@_ozDnkXnylDnu~A_fiAndkA~jiFonT~nzDoaoA_~i@np{@nu{Ene`@_cmA~wq@nrbB_~i@ninBnm_Aoe`@nnTndkA_~i@ncjRocsFowvVo_h@_{aP", "_ef_NnksmQ~gpB_enJ~qy@nsnLo|k@~xcC_pRovpDoggA~wkH_db@_i_I", "ocecNnlgwR~dtB_}eUnzaC_ibE~tu@~nzDou~A~ryZ_~i@~gpB_{m@o{pIo~rAndbMoe`@_mmK", "ozgoNni~tP~meFonbW_uu@_zuEnsw@ndkA~}i@oxwEnggA~s`B~wq@__sN~axB~frO_g^~eiAovs@_uu@nqP~|tA~|tAoyo@_vJnylD~yxA~{B_zxA~paFn{vAoofBowHnw|N_xq@nstD_sNotfG_}tAnqdO_xq@oq~V_|Bnyz[_g^nweCom_A_~cHnnTnsqH_}tAnpxDnnT_twM_pRnggA_pRozaC_g^~xzNobd@omsPosw@~yrI_laA_q{Mobd@~meF~xF_xkH", "olgzNnj|jL~cb@ocgV~qy@~_hMovs@otzV~gpBo{gUnfrB~r_Sn}@n{a]n_h@_mjO~kaA~b~Top{@o}eb@~yuEnrm]_db@~lpGnggA_ycC_|BnjzLnkX__vJ~cb@~nzD~lV_uu@n~rAnx|h@nsw@oa`U?ncdZnjcAommX~`f@nw_K~`f@oj}HnnTnihJnqPowbGnh\\~kaA_yF~_hMndkA_nhBnsw@nm|D_ieA~xwR~kaA_msCnwH~hbEnkX_laAnggAo_vW~{_Cnt}Rosw@_uu@_cmA~x}J~eiA_etBokXnram@_etB_f}Po}}BnwbGnofBod|T_pRnkX~xFor_FonT~eiAocvB_{gH~gpB~qsHozD~zjD_af@ojcA~lV~pdBokX~bmA_pR_ry@n}@njcA_sNo~oEozDntfG_{m@ovmHozD~`cDodkAom_Anu~An_eD_yFnkoKofrB_ycC~f^_yqZ_xq@nvpD_~i@ouxI~{Bnt}R_|BonnGotiCnibR_g^ofoF_fiAncsFn}}Bo_jg@ozaC~ocSoyo@_yn^_yF~~uJ_xq@_ufTo}@no}M_klB_xhL~iwCnmmXnh\\npiXoqPndeI_hpB_nvYnljBnn|^_uu@~dnJoggA_x|[nvs@nca^_g^nofB_o}@ol~Qoe`@~zx[_}tA_ytVn_h@_ufTop{@~h|L_uu@oldJ~{_C_vob@_hpB~qjToh\\o|bLovs@nylD~iZoacQo_h@n}wJotL__|BnggA_vxVnh\\~kaAoe`@obaD_fiA~uaK~qy@ov~[_{m@~efE_db@_lrT"]
+}, {
+    "id": "CH",
+    "label": "China",
+    "shape": ["_~lyB__xbT~_qAop{@~auF~k~DokX~rhGokuC~uJ_bxBo`zB_g^_d|G", "oaveI_t`pVnkuC_grOnacQohvGnstD_hdRnocF_o}@_hpBol{U~gdR~k{H_~i@~auFnrbBnvpDnezG_ieAnzaC~wnD~qy@obd@ofrBnweCninB~`f@~|tAngaI~axB_pR_`qAncsFn~lI~aoNnqjG~{sRo`zB_etBobd@~pdBom|Do~oEoaoA~vyEnr|I~kxLnzD~meFntiCntL~zm@oocFngdEodkA_vgCo|eH~|tA_nbJnrbB~uJnweCnuuM~x`GnvpDninBo~oEndeIofrBnylD_`nEorbBnjzLn}zFomvL~iwCn{pI~qy@_vaK~eiA~xcC_sNoofBn~rAninB~|tA_af@_mVnxzAninB_}tAnbd@nj`E~`f@oyo@~dqFntiConT~gpB~bmAodkAn_h@n_eDnh\\_bxBn`zB~uJoyo@~kaAn~oEnweC~rNnbaD~`f@om_A~`cD~nwH~v|A~xFndkA~kxL~xFnbd@_nhBnljB~`cDotL~{B~{B_fiA~heAndkA_~i@np{@n{vAnu~A~aoNnu{E~lV~{B~heAo_bHnjcA~n}@n~rA_nhB~{_C~bmAnu~Aou~A~{|FobaD_|B_af@nu{Eovs@n|k@nbaDnnnGovs@~``HnggA~kaAnbd@ninBn~oE_~i@o~rA~~{B~iZ~qvD_bxBnyo@onT~f{C_jwCoaoAoyo@~~{Bom|D~xF~}i@ntfG_g{Co}@_wyE_qaF_jwCotL_xnD~rN_g{CnylD~lV~yxAokXnpxD_}tA_~i@_ycC~mhBn~rAnweCosw@~ooCnb~Gnb{K~oR~zjDop{@nlgFotL~zjD~c_DnzaCoweCnqP~iZnweCo}@n__L_n_NntzV~iZn~oEoxwE~kxL_eqFnggA_af@ou{E_jnOnezGowH~wq@_o}@ngaI_acDnp{@_ieA~bjEo}@nyo@o_h@ojcAofoF~uJ_jZ~bjE_acD~f^o~oE_kiFne`@o_bH_|_C_qdBozDoikF_qaFo|bLobaDoh\\okX_}tAosqH~qy@oe`@n}}Bo|k@oklO_}tA~zm@_i_I_skCnh\\oieNowbGo|k@_vgCopuH_sNou~Anj`Eoe}Cnsw@_jtGn}zFopxDntfG~lV~nzD_yqZ~toH_ozDnwH_bfZ~yuEommXoylD_n_Nop{@oacQovpD_{gHoweC~mhBotiC_klB~kaA_fcIoldJ_haV_pR_kcNoz~F~rhG~kaAnocFovs@~szIo`tJ_wyEnp{@_qaF_t`B_vdGoewKosqH_|_CnnqCorbBobaDoyo@_ekN"]
+}, {
+    "id": "EZ",
+    "label": "Czech Republic",
+    "shape": ["_hogH_bvxAobd@n|hDovmH~yrIoljB_dvOn_h@o|eHnljB_ry@o_h@_}qE~f{Cou{E~wnD~arJ_cmA~~uJ~|tAnm_A"]
+}, {
+    "id": "FR",
+    "label": "France",
+    "shape": ["_}ncGoutx@~x`Gnvs@_ffE~dtB_bxBokuC~n}@_pR", "ooyvH_boNnxwEomyHobd@_ycC~axB_l~DnqPoljB~s`BoflJ~olG~~{B~rN~dtBn}zF~efE_~i@_d_D~s`Boyo@nzaCoqPnh\\nrbBnbaD_ieAnnT_ycC~eiAnkXnzDnqPo}@~{B~xFnzD~xcC~gmFou~AnsnLnxzA~zjDn`zB_pRotL~c|G_vJ_vJozDnm_A_msCnzuR_y`G_poC~{Bn_h@_xnDoe`@~{_C_nhB_klB~zm@_{m@~yxA_bxBokX_qdB~efE_}tA?ntL_cmAofrB~rbO_{m@~heA_xq@_nhBo_h@nfrBokXo_yS_}qEninBnvs@_}kM_sNnjcAofrBonnG_msCoe`@o_h@ovpD"]
+}, {
+    "id": "GM",
+    "label": "Germany",
+    "shape": ["_b|jI_p_bAnu~A~f^_hpBo~lInkuCoxtInvgPoljBnljB~cvOnvmH_zrIn}}Bn~oEn}}B_xq@otLny`T?nflJ_yFnnT_plG__|B_t`BnflJozaCn|k@o`zB~lVoalEnwH_g^o|hD_`qA_{m@_g^~eiAoweC_qdBo{vAoqP~kaA_kiF_nhBoe`@njcA_qaF_cmAnstDodkA~qy@oe`@_`qAoyo@~ooC_g^_fiA~rNohyCn{vAoyiH"]
+}, {
+    "id": "GH",
+    "label": "Ghana",
+    "shape": ["oqub@__|B~oR_|Bo}@~bmAnljB~_nEnbd@ne}Cnsw@n{vAoggAn|hDo|eH~n}@opuH_msC__yF~`f@_{gH~iZ_jZ_mjO~weP_{jDnqjG~`f@n_eDozaCnjcAnrbB_af@~uJonT~lV_|B~oR~xF~xF_vJnnTn}@nwHntLoh\\owH_vJnzDotLnqP_mV~oRozD"]
+}, {
+    "id": "HU",
+    "label": "Hungary",
+    "shape": ["oxewG_xzqB~rNnr_Fo}}B~_nEodkA~s`B_jZ_cmAoweC~uJop{@_skCo}@_sN~wq@okrG_g{C_seKnh\\o_bH~yxA_poCnuxI~zdLntLnxzA~`f@~fxG"]
+}, {
+    "id": "IN",
+    "label": "India",
+    "shape": ["oyjwE__q{M~inOoezG~`f@nu{E~dqFoggAnxwE_lxL~rhGnm|DnstDoqgKninB_hmFoe`@_~fD~qvDo~lIn_h@o|bLo|eHokX_jZoweCnweCoqP~dtB_skC_jZoryM_xnDnaoA_pR_{jDob~Gob{Knsw@_poCo~rAoweC~xcC_nhB~|tA~}i@nkXopxDncvB~yxA~pdBoyo@_db@npxD~{_CnalEnbxOnj`E_~i@ne}C~mbJ~iZ~tu@~dtBo{pI~n}@nkuCnzaC_vgCn{vAonnGocsF_xq@~~rNo|hDnnTodkAnz~FntiC~n}@nljB_xnDncvBnm|D~yxAotiC~cyKop{@nrbBo}@~xF~heAo`zB~xFn}}B~_qAocvBnwH_xq@nsw@nm_A_xq@ntiCnikFntiCotLnweCncvBnqPnj`En|_PnrvQ~pdB~uJ~zjD~oiKns_`@~_qAn}@~mhB~f{CnaoAnm_A_nhB~uJnalE~efE~}fDoe}C~nzD_jyj@nibRocgVnhyC_xnDovs@ocvBnggAoggAoinBo|k@n`zBosw@_`qAo}@nkuC~|qE~xF~s`Bn}zFopuH~dnJ_xq@ofoFoljB_laA~wq@n}zFofrBnhyCoaoAop{@ntL~mhB_klB_hpBoqPoafMobxOnyiHo_eDohyC~uJoyiHoozQo|_PobaD~rNom_AokuC_l~D~rhGohyC_uu@ozaC~heAo}@og{P_acDopxDnwH_xq@"]
+}, {
+    "id": "ID",
+    "label": "Indonesia",
+    "shape": ["~_gx@ojr{U~c_DoweC__|Bnr|I_db@_zuE", "nnjv@_i|zVnggAnzD~rkCnweC~f^npxD_l~D_klB~lVosw@_uu@onTo|k@_t`B~lVo_h@", "~yqt@otjfU_|BntiC_klBoljB~gpB_g^", "~ytp@_`kwVnbd@_klB~lVnhyCop{@o|k@", "nwar@olbqU_vJoweCnaoA_db@nsw@nryMo`zBoggAnggAo_eD_g^op{@_}tA~mhB~}i@oinB", "nxvp@_prmVn{vAnh\\nsw@~_nEoe`@nw_K_zxA_skC~eiAouxIou~AoweC", "~s|p@_r}_UnzaCnggAonqC~xcC~rNoalE", "n`ym@__mdW~kaAnpxDojcA_af@n}@onqC", "~pcm@oqeoY~c_DnofBnwH~f{C_urDorbBnwH_d_D", "ne_k@_nacXnhyCn`zB_qdBokXovs@_t`B", "~v~h@otvvTnjcAnu~A_db@ne}Coe`@_||F", "nytc@_k}fSnyo@o|bL~jlB_`qA~f^_fcIoinBoofB~s`B_i_InweCosw@~`f@_owH~rkC~rNn|k@oyo@om|D~ulf@om|D~hyP_g{C_urD", "npc`@_dltX~mhBoh\\~uJn~rA_etB_uu@", "~}t[om_oVnj`E~jlB_kiFoyo@n_h@op{@", "~gdRovafW~v|Aoyo@n_h@~mhB_w|A~xcCo_h@om|D", "~hyPoohwWn_h@okuC~ooCoyo@_g{C~ofOnxzA~wq@_ycC_xq@~uJ_i_I", "~aoNopcqS~}i@_}tA~v|A~`f@ozD~yxAozaC_~i@", "ncmNoxjnX_pRnqPnwHonTnwH~{B", "no}MoejtXowHnwHonTowH~f^?", "~zdLoccsXotL~xFoqP_vJ~f^~{B", "~iqKovryWoe`@nxzAo_h@o`zB~eiA~f^", "~|nIo__zVne`@op{@o}@nj`E_g^_ycC", "naiIocz~XnnTocvBobd@~``H~rNo|hD", "nuxIouofSnwbGo`zBodhEnpuH_nhB_}tA~zm@_qdB", "nhvG_qokWnyo@ovs@owHnkuC_af@_t`B", "~mhBo`mkX~qy@_ibE~``HowH~efE_acDoflJ_rmP~s}E_hdR~lxf@o}@_rvD~efEop{@_g^~_qA~dqF_poCobd@_ieA~|tA_yF_klBoyo@~{_C~uJo`zB_uoHnu{EoezG~~lVoxzA~gpBoofBobd@nu{EnstDohyC~rN_qdB~}fD_ieA__yF~qy@_}tA_bxB_xq@ne`@~h_Io|hD~udG_ffEoz~F~f^_acD", "~{B_oy}WnggA_fiA_db@nalEobd@ozaC", "_jtGoygrQn|hD_uu@_acD~ugCozD_`qA", "_jtG_lxzV~bjEnylDnzDnenW~nzDne`@nhyC_etB_etBopxD~xFoldJ~nzDn|bL~xzN_owHnjcAntfG_~`L~iwCnjcAninB~ofO_xq@_vJ~hbEonkKowH~xFnfrB_g{C~f^o}wJ_zuEobaD~zm@_skCoaoAo`zB_urDnrbBomsP_~fDou{Envs@oe`@", "_q~IooqkW~hbE~oR_msC_rvD~iwC~pdB~gpB_vgConTndhE~jiF_qdB_|_CnqmC__yF~tu@or_F_|_C~bmA~f^", "_}bYo_icUnnT_xkHnxzA_{m@nnT~f{C~~xFo~oEn~rAn|k@~wnD_t}E_jZ~vyE~arJnvs@~zm@~zjD~lsC~pdBn{vA_fiA~rhG~axBnfrBn`wF_ycCn|k@orbB~itG~gpBnocFobaD~iZ~zm@n|eHogaI~cb@oxzAnhyCodeI~_qA_buF_g{C~gmFovpDoh\\o`wFoinB__|B~iZoewKoskPo_bH", "oxba@_fjgQ~kaA_tzInqdO_kcN~iwC_rvDoxzA_mVnpuHoflJnofBndkAonT_kiF~k~D~eiA~kaA_ffEnxwE_t`B~axBnjcA_w|Aom_A~oRonqC~~{Bo{vAnpoPnm_A_zxA~yxA~heAnkXosw@~dtB~_qA_|B_mjOng{P_q{M~udGo~oEnr_Fo_bHnggAog{P~xwRoylD~qy@_|BorbB"]
+}, {
+    "id": "IR",
+    "label": "Iran",
+    "shape": ["_froF_atqG~gpB_neF_yF_ieA_acD_gxGnm_A_fiAnljB~kaA~bmAo|hD~f{Co_h@nvpD_seKotL_uiPoljBnzDostD_pcS~ooCo__L~zjDoj`En}@obaD~bjE_mVnb~GnkuC~axBo~rAn{vA~heAnsqH_xq@~v|AogdE~paF~k~Dnz~F_cjE~tu@o|hDngdE?~iZ_klBnu~A~f^~bmA~x`GndhEnyo@oinBn{dY_plGn`zB~{_C~arJ_~i@~bjEofoF~bdMojzL~olG~`f@~s`B_t`BninBnljBn~rA_cjE~}fD_g{Coe`@_etBn~rAoinB~x`GogdEntiCostD_cmAovpDoljBoe`@~qvD_qaF~axBoprL~lsCoyo@_jwCn_h@obd@"]
+}, {
+    "id": "IS",
+    "label": "Israel",
+    "shape": ["o~_aE_vevE?n}@_|B?~{Bo}@", "oc}iE_`lxE~jlBozD~qy@~oRokXnvs@nu{E~bmAonT_etBnz{J~s`B~uJ~rNo{pIn`zB_yF_vJ_laA_g^o_bHocvB_g^_qdB"]
+}, {
+    "id": "IT",
+    "label": "Italy",
+    "shape": ["_fxgFoex}An_bHn{vAor_F~ofO_`qA_xnD~rNosnL", "obdzFol`y@~reK_vJnbd@~paFoz{J~}i@_{m@_y`G", "_uz}Goc`iAnxzAopuHn|k@~kaA~ugC_laAnkX~fxG~gmFoqP~ugCocsF~c|G_wyE~cb@_mpGn~rAn_h@~udG_|vNnjcA~f^_|_C~fxG~xcC~_qAne}C_ycC~bjEnxwEoqPn~rA_xnDofrB_wyEnljB_}kMnq{Z_l{Hnj`E_`qA~rhG~~{B~gmF_fiAokXonT~xcCobaD~heAoh\\orbBozaCnqPn}@_d_D_nhB_hpB~axB_etB_|_C_{m@nvs@o_eD__|B_laAokX_fcI"]
+}, {
+    "id": "JM",
+    "label": "Jamaica",
+    "shape": ["_eclBnmwuM_w|AnikFozDonnGnu~AoqmC~{BnvpD"]
+}, {
+    "id": "JA",
+    "label": "Japan",
+    "shape": ["_oalEo}y_XowH_zxA~c_D_o}@~c|Gn}}BnggAnzaC_ycC_jZ~s`Bne`@otLnaoA_msCntL_jwCo{vA_fiA~bmAnrbB_jZ~oR~dtBohyCne`@ofrBoxwE~kaA_qdB", "_`rpE_zerXnrbBoofBnfrB~jlB_xq@nfrB~lsC~f{CoqmCn~rAnkXnjcAokuC_{jDo|k@_y`G", "_fi{Foxf}Ynr|I_g{C~~xF~mhB~lV~gpBnuuMnnTncvBnrbB~cb@~jlBotiC_af@n~oE~vyEoofBnnT~pdBnofB~xFnocF_g^op{@_ieA~s`BndkAnm_A~_qA_fiA~c_Dnu{Eo~rAntiC_acDovs@~heA~baQnfrB~n}@oh\\~paF_t`B_vJ_qaF_~`LotL_`eQo~lI_skC_jZoinBnaoA~s`B~kaA_}tAo}}B__yF_vaK_gxG_hmFne`@o}}B_t`BndkA_g{CoggA_sN~uJnxzAoe`@orbB", "_ebtGoc_bZnz~F_}nI~cb@ogdEo~rA_klBndhE~rN_vJ_klB~yxAnldJnj`EnnqCoweCnezG~xFnwbG~n}@~cb@n{vA_urD~eiAnu{E_kiFn|k@onqCo`zB~rN_rvD_|yJoe`@oe`@oxzA"]
+}, {
+    "id": "KZ",
+    "label": "Kazakhstan",
+    "shape": ["_rwpIotheL~xFogaI~jiFojcAnzDo}tNn`zB~n}@ogdEoeqS~yxAnsw@~rkConnGnfiNoyfLoljBocvBninB_jwC_xq@otcKnkrG_q~I_af@o|eH~ugC_hpB~ugCnpuHnwbGn|k@oh\\nieN~h_I~rkC~|tA_{m@n|k@nklOne`@o}}BnsqH_ry@nkX~|tAnbaDnh\\_etB~bjE_`qA~_|\\~cb@ntiCn`zB~uJoaoAnuxIninB~iwCn|hDn`tJ~iwC~dtB_hpB~pdBn}@~gmFobaDnbd@?~s`B_ibEoqP_poCnlgF~wq@~kuPoewK~wbTninBn}tNnxkU?ogdEnldJ~`f@~paF~bmAninBom|D_ry@_}tAnb~GohvGndhEntLowbGojcA~axBorbB_zxAnzD_nbJo_h@~s`B_qaF_zxA_cmA~reK~lsCnw_Ko_h@~{_C_~i@oxzA_urDnbaDn}@~c_DoqmC~zjD_piK_ffE~s`B__yFo}}B~oR_neFohsK~tu@_pfO~nzDo{sEorbBokXnrbB_cjEoljB_d_D_sNoldJ~xcC_kiF_ry@_kfJou~Aop{@oweCnaiI_fiA_`nE_laAnggA_ry@oaoA_|B_ffEop{@~qvD_af@_cmAonTnzaCom_A_pRoggAoguX_ffEokfW"]
+}, {
+    "id": "MX",
+    "label": "Mexico",
+    "shape": ["occbEna_qT~~{B_seK_`qAoek[netO_zlQo|hDo~oE~lV_xnD~tlL_brJ~s}EoaoA~yxA_y}JneqSnnqCni_V_vaK~xcCohvG_hpB_kcNnsw@_qdB_xkHodhEoalE_mV_klB_pcS~|tA_xq@~``Hnm|DnqPom_AnnnG~|tA_ycCnbd@ndkA~wq@?~rN~{_C~lsC?~jfJ~jlB?~{B~yxAnr_F_ibE~{Bn}zF~zgH~pdB_bxB~pdB_urD~paF_af@~|tAnyo@op{@_g^~{_C_mV_jZ~uJn_h@oe`@ntLnhyC~k{Hom_Anz~FoeqSnh{j@oalE~ugC_db@_}tA_~i@~qy@o}}BojcA_hmFn`zBouuM~qpL_zxAn~oEovs@_uu@~xF~jlB_qdBosw@o{sEnhvG_t`B_|B_zuEngaI_lxLnstD_poC~{yJnw_K_w|A~r_So~fQ~yoM_xnDn|hDocsF~gpBnfrBoflJnewKo|eHnp{@oezGnzxN~{BogdEoe`@nm_A_|_Coyo@_eqFnj}Ho_|OnhvG_db@_wsMnnqCodeI"]
+}, {
+    "id": "NL",
+    "label": "Netherlands",
+    "shape": ["ohlxH_k}U_|BndkA~{Bo|hD?~v|A", "_h}~H__db@~f^nm_A_mVnsw@_~i@_t`B~uJ_~i@~lV~oR", "_gh`I_ra`@nyo@nggA_{m@n}@o}@_fiA", "_r`eIox|h@~cb@_laAnweC~pdB~f^_fiA~_qA~zm@~f^n|hDnalEowHoqmCnm|DnnTnhyC_g^ne}CnqPo_eD_xq@~dtB~{B_w|A_mV~qy@o}}BotiCn_h@_acD_g^ojcA_pRonT_pR~{BowH~wq@_pR?_sN_mV_yFnjcA_sNowHonT~uJ~lV~wq@~zm@_af@~rNnvs@nyo@?oqPn{vAou~Aoh\\_zxA_~`L"]
+}, {
+    "id": "NI",
+    "label": "Nigeria",
+    "shape": ["op|rAonyb@nnqC_`nEojcAoylDnljBoo`JofrBo{sE~n}@_zrIo}}BoocF~~{B_}tA~}cH_hpB~pdB~`cD~ihWnz{J~~{B~pdBo`zB~rkCnvs@~c_DntcKnikF~rNnj}H~heAowH_cmA~zm@~_qA_sN~rNnnqCo}}Bn}}B_bxBobd@~oR~eiA_db@_{m@_ycCnm|DotLno`JonhOotL_xkHo~oEoxwE~wq@or|I_nhBovs@o{pI"]
+}, {
+    "id": "KN",
+    "label": "North Korea",
+    "shape": ["oezaG_sj|W~lV_vJ~~{B~hbE~c_Do}@nxwE~tlL~pdB~lVninBom|D~f{CndeI_af@~yuE~heAnyo@o{vA~xcCorbBoj`Eoe`@nrbB_jwCop{@o}@nbaD_t`Bnyo@o~lI_boN~_qAocsF_bxB~oR_}tAogaIoinB_af@nfrBoweCn}@_yF"]
+}, {
+    "id": "NO",
+    "label": "Norway",
+    "shape": ["_co_LoogtA?oe`@ne`@nweCoe`@_qdB", "ord`LopvzA~`f@nbaD_ry@om|D~oR~iZ", "ogfcL_|z|A~tu@~n}@onTnweCoe`@ogdE", "ovrbLo`r`B~}i@nyo@_mVobaD~bmA~qsH_vgCo}}B~`f@ojcA", "_cigL_itjBnqPo~rAnbd@nbd@nwH_mVnkX~gmF_zxA_~fD", "oijhLomhrB~oRnylDosw@oweCnbd@_af@", "_dxmL_k`oC~qy@nggAokX~eiAoe`@onqC", "_f_oLoacnC~wq@nzaCokXnbaDokX_~cH", "oh|vJ_~q_@oqP~bmAobd@_nbJ_|BnmyH_o}@?nh\\oikF_g^~|tAoh\\odkAnvs@o|k@ovs@nh\\_sNop{@nzDoe`@ne`@okX~iZ~uJ~{B_pR_jZ_fiA_sN~|tAowH~uJo}@owHonTnbd@nzD~pdBowHodkAotL~bmA_mV_brJ_uu@nxwE~n}@o|eH_ieAnzaCne`@o}}B_uu@nggA_t`Bo_bH~heAocvBoh\\n_h@_yF_~fDoinB_hpB_pR~cb@~n}@~ooC_yForbB~oR~iZ~zm@nylD_g^~wq@_pRop{@?~jlBovmH_awS~rNnweCoweC_`qAntLorbB_~i@nrbBoyo@_a`HnkX~vyEonTorbB_~i@ninB_sN_msConT~s`BotL_msCoh\\~|tA_{m@ovjL_vJ~olGom_A_xkHoyo@~s}E_}tAoikF~heAoyo@~oR_uu@o_h@nsw@nwHop{@_sN~f^_yF_ieAo_h@~axBnh\\otiC_{m@nu~A~`f@odhEojcA_af@n}@n{sE_jZ_hmF_pR~|tAo}@oljBoh\\~heA_{m@_skCokXnh\\o_h@_xq@~wq@_neF_fiA~s`B_af@_d_D~eiA~rN_nhB_bxBntiCnjcA_msC_shG~tu@ohyCosw@~qy@_sN_ry@_jZ~f{Cnp{@oqgK_ycC_jtG_g^~v|A_db@_laAntL_y`GndkA~`cDnaoA_g^o_eD_vdG~gpBntLonToofB__|B_bxB~iZ_xnD~heA~wnD_pRo}}Bn|k@n{vAozDou~An{vA~qy@oe}C_ibE~gpB_mmK~cb@nlaN~iZ_`nEnp{@~cb@okX_shG~ooCncpJofrB_~i@ovs@ngdE_|B~|nIntfG~zgHokXncmN_bxB~|qEnvs@~ooC~{B~v|Anyo@oyo@n{vAnaoAoe`@nihJ~jlBn_h@nwHnr_F~k{H~auFnh\\nm|D~c_Dn}@nqmCnbaDnnT_zxAn{vAnkX~|tAnihJnihJ~{BnggA_poC~heAn}}BnylD_uu@~wq@nzaC~}fDndkA_af@n`zBoweCnvs@~`cD~qy@otLnweCnj`EnwbGnwHnmyHozaC~s}Eop{@_qaF_|BnnqCou~A_etBnwHn}zF_l~Do}wJ~s`B~rhG_cmA~{B~xFnfrB_laA_klBonTnkuCojcA_fcInsw@_qdB_bxB_zxAnaoAnyfLobd@n{vA_pR_ycCowH~xcC_yFo_eD_jZ~yxA"]
+}, {
+    "id": "PK",
+    "label": "Pakistan",
+    "shape": ["_n}`F_htgM~heA_cjE~`cDop{@~n}@ogaI~`cDnpxDn}@ng{PnzaC_ieAnhyC~tu@~k~D_shGnm_AnkuCnbaD_sNnozQn|_P_vJnyiHn_eDnhyCnbxOoyiHnqPnafM~jlB~gpB_mVntiC_}nInu{En{vAn~lI_yF~vpQodhEoyo@_cmA_y`Gou~A_g^_jZ~jlBogdE?_uu@n|hDoz~F~bjEn{vAomyH_}tA_haV_shG_zxAoqmCow|No{sE_db@_ry@_d_DotiC~_qA_|BoocF_shGoinBotiCnaoAoweC_y`Go_h@oqgKn}@oyo@"]
+}, {
+    "id": "PL",
+    "label": "Poland",
+    "shape": ["_{fmHos`rB_g{Cnu{En_h@~|qEoljB~qy@o_h@n|eHovgPnljB_wyE_`bU~eiA_brJ~rNo~fQnaoAotiC~gmF_}tAn{vAnkuC~`f@oxzAnljB~xF~nzDorbBn_bHnvmH_}tAnrsU"]
+}, {
+    "id": "RS",
+    "label": "Russia",
+    "shape": ["oz}kH_rykZne`@~~{B~s}Enu~A~jiF_klBo}@_cmA~rkC~{Bo}}B~lsCn_eDn`zB_rmPn|k@o{mM_`qA_kiFn`zBoalEokXom_AodhE_nhBnaoA_db@op{@n}zFofrBnmyHntL~nqPoyiHozaCn{sE", "o_fpIopxaCnjcAokrG~mhBnwH_sNn~fQ_{m@_etB~xFnofB_o}@_pRom_Aom|D~n}@naoA~rN_klB_ieAoe`@?oe`@", "o~qcLn~jga@~jiFommXnm_Ao`zBntiCne`@nggA_nhBoh\\_vgCocvBnylDotL_l~Dne`@_|yJnylD_mmK~yxAnpxD_~i@~wnDnjcA_`qA_af@~bgInfrBozaC~qy@n~oEnm_A_acDn_h@nbaDoggA~}i@_g^~lmKoweCn`zBowH~jcNoxzAnjcAoaoAodkA~}i@~meF~~{B_fiAnxzA~xcCotzV?ntLoggA", "ogq~LosupInbd@_buF~cb@nm|D?__|B~cb@nbaDnnT_qdB~}i@nbaDnyo@_zxAnvs@~heA~jiF_twM_sN~koX_o}@_jwCocvB~wePovpD_q~IotL~`cD_g^_ibE_uu@n|k@oe`@_xhL", "olhoMopppYn~rAo}zFoggA_t}Eoe`@~wq@~{_CobrWnu~A~fxG_pRnalEo|k@~bmAoqPo}@_~i@oofB_yFnfrBnm_Answ@~tu@o{vA~f^_zuEnsw@nkc[_vgC~ntL?_nhBoyo@~|tAoh\\_jwC_af@nsw@_mV_zrI", "_gvtMo~t_L~_qAofrBnikFnoem@nylD~}`LokXnm|D~qy@_klBnbd@~``HnggA_zxAoe`@~paF~}i@oalEo}@nylD~cb@oofB~zm@nu~Aobd@n_eD~lVnaiIodkA_ozDowHnvmH_laA_otL_g^~f{Co~rAo`tJonTnr_Foh\\o_eD_af@~zjD_qdB_ulLo}zFozt}@", "_{byMofl{R~n}@_piKnvs@nyfLne`@_dsSnaoA~yuEoyo@_~t[nvpDo|_P~n}@~eiA_o}@nocF~|tA_plGnqdOnb}r@_rvD_hxa@otL~olGoyo@ozaC~uJoklOn`zBocvBnggAn}@nnTndkAnkX_sNnqPojcAnzDorbBoqP~xcCowHnkXoqP~rNokX_fiA_uu@_|B_pR_w|A_g^nljBotLozl^~rN_ieAnyo@~dtB~qy@ohvGnfrBoh~f@~nzDo_eDorbBonTou~AncvB~xF_rvD~k{HovdToikF_owHnrbBopxDo_h@_xhLnofBotcK_zxA_~i@nqP_hjJoxzAnfrBoyo@_~fDozDnxwE_ieAo}wJ_ry@nvs@~mhB_lfd@~cb@~m_N_jZ_boNnjcAnw_K~qy@_ieA_|_C_nbJ~oRokoK~kaAoylDn_h@~auFnbaD_quUozDonvf@~yxAoj`E~gpBnp{@~zm@o`wFncvBoaoA~yxA~jlBodkAoqmC_w|AnkX_fiA__sNo}@_haV~mhBou~A~v|AoafM_uu@_`qAoinBnvpD_qdBojcA~zm@_qla@nvpDnvo|bAntzV?~v|A_mfkcAou~A~k{HnzD~dtB~}i@_ibE~iZ~qmPotLourQ~}`LohsK~kaA~s`BofrB~fuK~qy@osw@~s}E~ryZ~zgH~m_NotiC~bjE~f{CnrvQozaCo_h@ntiC~zgHovs@nlgF~hbEn{vA~k~DncsFndkAoaoA_g^_~fD~v|AnxzA~paFocvB_af@~nzD~wnD~xcC~ooC_cmA~axB~cyKnalEowHntLnj}H~|qEnh\\~_nEnmyH_h~Ynu{EoqjGoaoA_poCodhE_o}@n|k@osw@_a`H_wsM_wmUo{vAoxtIokrGoxzAoe`@o|eHoqP~yoMnqmCnp{@nh\\_laA~|qEnffRo{vAoyo@nqPncvB_o}@owHoweC_qdBnh\\~qmP~~uJ~u{R~_qA~lV~oR_}qEn|k@n{vAnsw@n||Sovs@~zm@_mV_hmF_nhBnklOnofB~ugCne`@~kch@nguXncxi@n_h@odeI~zjD~uJoljB_l~DnhyCn~rA_zxA_eqF~v|AnnTohyC_af@o}@oxwE~efEodeI~cb@ntiC~wnD_g{C~}cHnalE~axB_{m@~h_I~pdBnxe]niy]~c_D~uaKo}}B~udG~bjEnxwE_mV~uJo}@~xF_ry@nbd@ozaC_xnDoezG~heAorbBovpD~}i@_buF_hdR_l{H~gpBnl{UoocF~n}@ostD~gdRoacQnhvGokuC~frOnyo@~dkNnrbBnbaD~{_ConqCnewKnsqH~s`B~udGop{@~paFo{vA~vsMnu{E~nnT_db@~qpLogdEn`tJ~{B~myUoyo@nfrB_msCnnToe}CnqaS~s}E~yuEntiC_zxA~jlBnpxD_}qE~ms]~h_I~~iZ~rNnu~A_vgC~gpB~`f@n|eHokrG~p~I~wq@ntcKoinB~iwCnljBncvBofiNnyfL_skCnnnG_zxAosw@ngdEneqSo`zB_o}@ozDn}tN_kiFnjcA_yFngaI~efEnkfWnggAnguXnm_A~oRnnTozaC~`f@~bmAnp{@_rvD~{B~efE~qy@naoA~kaAoggA~eiA~_nEnweCoaiInu~Anp{@~qy@~jfJ_ycC~jiF~rNnldJnljB~c_DorbB~bjEnrbBnkX_ozDn{sE_uu@~ofO~meFnhsKn}}B_pR_t`B~~xF~oiK~efEnqmC_{jDo}@_d_D~trDobaD~}i@nxzAn_h@_|_C~pdBnrbBnqPnwbG~gmF~ugC~efEoqmCoggAosw@n_eD~zm@~meF_wyE~~{Bne}CozaC~jiFozD~lV_~fD~zgH~cb@~efE_etB~_nE_af@nskP_q~I~}zS_mV_qaFoqmC_af@_vJo`zB_hpB~`cDoaoAosqHozD~_nEonqCocvB?opxD_msC~iZoyo@_`qA_jZ~eiAofrB_}tA_ry@~`}K_nhB~jlBntLnihJozaC~zm@_~i@nj`EodkA~tu@_g^_o}@oljB~hbEnyo@~h_IovpDnrbB_}tAob~GowbG~x}Joe}Coh\\oljB~`zOor_Fnp{@_{m@nu~Aom_Ao{vA_rvDndkAozaCofrB_t`BoprL_cmAngaI_ieAoqPnbd@~zjD_}kM_haVobaD~nwH_w|AofrBotiC~qvDohyCou~A_neF~_nEohyC_ozDorbB~udG__|BokX_vJndkAoh\\oofB_poCocpJ~xF_otLnnT~_nE~}i@o_bHnxzA~s`B_fiA_vgC~f^omvLnezG_ns]~zjDo|k@nhyCnw|N_zuE~hgh@ncsF_}hQ~pdBnxzAnbaDoaoAnnqC_v~N_qdBoinB_bxB~wkHovs@ofrBnjcA_plG~}i@~heA~oR_n_NogdE~lsCom|D_twMn}}B_seK_cjEom_AoaoAnnqCopxD_t`BoaoA~qvD~mhBo}qRnm_Aobd@~|tA~p~In`zB_a`Hoyo@oz~F_|_Cosw@~{BoxwE_ry@nrbB_fiA_wmU_g^_zxA_mV~zm@_vJ_g^~xF~heA_ieAo_bH_|B_jwCnqPnm|D~xFo~rA~yxAntL~iZ~ooC~oR_rsH_acDovaXnyo@oofBnm_A~heAnwHokuCoofBo~oEozaCnkuCosw@oqmC~n}@_s_S~x`Go{dY_poC_jwCocvB~swM_neF_nhB_ry@~rkCokuCoihJou{E_~fD~xFoprL~`f@o`wFn~rAowHne}C~|qE~dtB_cjE~dtB~_qAn}zFokX~pdB_zuEn_bH~ntL~n}@oh\\oh\\nzxN~gpBoxnQob~G_dvOoweCnaoAodkAop{@_af@oz{Jn{vAoqmC~ooCn|k@n_h@oz{Jobd@~qsH_t`BotiCo}}B~mhB_xq@~xtVofrBn|k@ovpDohyConqCn}zFoweC_|yJ_skCnkXnvs@oylD~meF~v|Anp{@_cgIntLovjLostDn{jQnwH_seK_~i@nqmC_ry@oocF~xcC_{x[~yxA~hbEnweC~cb@nggAovs@_fiAnbd@op{@_ozD~rkC~v|A~oRoxzAodkA__|B_jwC~dtB_fiA_w|AovpDnjwP_}tA_pR_af@nfrB_cmA_uu@osw@_ddg@~bmAnz~FnxzA_ibEou~AnstDoaoAoo`JodkAn~lIoqP_neF_xq@~udG_db@_{m@~`f@_{jDoaoA_{jDokX~f{CohyCokwj@o}@n}zFoh\\osw@onT_ijd@~cb@ou~A~v|A~xcC~eiA_zuE_cmA~efE_qdBotiC_cmAn~oEnnT_~zS_t`B~olG_g{C_~zS", "ocecNoinsR~s`B~gpB_ry@_uoHninB_d|G~mhBnp`d@_ozD_i|L_sNn`zBosw@_klB~{B_jtG", "oeihNomwrQ~oR_`qAnggA~`cD_mVovgPnofB~k~D~kaA_xnD~oR~rbO_vgCncdZ_bxB_u`\\"]
+}, {
+    "id": "SF",
+    "label": "South Africa",
+    "shape": ["n~lfCo{luD~}i@okrGnkoK_skC~}cHnwHo_h@~~{B~jlBn~rAnylD_xq@~lVobaD_w|A_jZn}@_msCnaiI~s`B~{mZn}kZnj`E~tlL_|B~dhRne}C~aoNoqmCnikFn_h@ndkAob~GnljBo_h@_}tAoqmCn}@oneSnr|IoljBoinB~xcC_laA~`f@_jwCou~A_nbJo{gU?nxwEoe}CnpxDne`@nzDodhE_uoH_vdG~eiA_hgNo}wJoezG_uoHouuM?_qdB"]
+}, {
+    "id": "SZ",
+    "label": "Switzerland",
+    "shape": ["_ddaH_|~m@?oflJnvs@~xFn_h@~uJ?okXnbd@o|hD~~{B~kaAovs@n_eD~{_C~zm@_bxB~dtB~mhB~gpBo}@~c_D_t`Bnyo@~}i@~c_Do}zF_ffE_sN_etB~xFonT", "_lcbHoddt@n}@nzD_|Bn}@n}@_yF"]
+}, {
+    "id": "SY",
+    "label": "Syria",
+    "shape": ["o`oaF_mpaGnnqCn~oE~{yJnsw@~bjEnsnLn~oEnz{J_fiAnlgF_klBnzDopxD_ibEo{vAn}}B__yFnwHop{@okuCofrBnzD_uu@_hxa@"]
+}, {
+    "id": "UP",
+    "label": "Ukraine",
+    "shape": ["_qq~H_j~jEnljB_ibE~f^~n}@ndkA_uu@~}i@oj`EnzaC_{m@otLoihJ~mhB_klB~qy@_a}KnfrB~|tA~iZ_fiAnyo@~_qA~lsC_jZ?npxDnnqCncvB~yxAnafMninB~trD_{m@ojcA_mV~iZnwHo}@nkX~f^~rNnjcA~`f@~iZ_{m@nylDnylD_d|G?o_h@_uu@nsw@oaoAnsw@otLnqP~{B_g^nbd@otLn|k@oh\\nvs@_xq@nqPoe`@oqP_qaF~hbE~ljO_af@nfrBoofBoe`@osw@~_nEonqCou{EokX~mbJ_mVovs@_db@nljB~lVo_eD_db@osw@n}@n`zB_bxBnvs@~dtB_g^~{Bn~rAoe`@onTnyo@~lsCnzaC~gpB~wq@~s`B_af@~lVncvBozD_{m@nezGodhE_jwCnqPou{E_`qAne`@_neFne}C_zxA~olGnbd@nu{EnljBn~lI_{m@nnkK_zxA~ooCozaCoaoAo_bHovmH_ozDnrbBoaoA_xhLnweCosb\\_d_DodkA_yF_acDoyo@_i_I"]
+}, {
+    "id": "UK",
+    "label": "United Kingdom",
+    "shape": ["_adpInfwe@~lsC_urD~eiA~`cD_laAncpJorbBonqC_mV_g^oe`@_xnD", "ob|wI~{gb@~`f@nfrBosw@owHnqP_nhB", "ock~I~end@nggA_w|Aoyo@nu{E_mVo}}B", "_mecJ~|yd@~mhB~trDoaoA_sNokX_acD", "odzdJn{jQ~_nEnhvGnnTonhO~yuEn|eHnqP_vgC~zm@nr_Fn{vA_dyK~c_Dom_An}}BofoFnljBobd@_jZ~`cD~qy@_ozD~pdBvzm@nkXwbgInzaCnqPn`zBnikFnvs@odhE~s}Enwgj@or_FoezG_|B_kiFoljBo}}B~eiAnm|DojcA~arJ_etB_wyE_hpB?~lVn`zB_`qA_klB_jZ_~cH_af@naoAozaC_ry@osw@~c_DoxzAofrBnm_An`tJojcA~}i@ou~A_klBo_h@np{@_{m@_yF~{B_cmAobd@njcA~wq@nxzA_fiAovs@nstDnnqC_{gH_|_CnnT~vyE_cmA_acDotiC~_qAozD_skCo|k@~heA_nhB_zxAo}@otcK", "otxfJn|_P~xF~bmA_af@~f^~f^_klB", "omepJ~{|F~~{BozDo~rA~_qAo_h@odkA"]
+}, {
+    "id": "US",
+    "label": "United States",
+    "shape": ["ok~tBnkbq\\~qy@n_eD_eqF?np{@_vgCn`zBoh\\", "_`q~Bnp_z\\nh\\_w|A~f^n~rAop{@nwH", "ostaCnsua]nnTnggA_uu@ne`@ne`@_nhB", "_mpdCntal]_db@~heA_g^_}tA~kaA~rN", "_sglH~hicQ~~{BoxzA~xcCo`nRovs@ourQ~szI_c{XnocFopuHnuxIoaoA~wkH~bjEnggAoxzA_t}EorsUo}}Bnbd@_g^_zxA?__vJ_shGoo`Joyo@ovaXoprLogaI~bmA_gxGnqjGn}@~pdBofrB~pdB_|B~rNnmyH~c|Gn}wJnxzAoh\\~kaA~yxA~~{B_zuE~`f@ncsF_laA~`f@~|tA~lV~{_CnieN_etB_yFnz{J~yxA~|tA~mhB_vgC~dtBodkAoofB~heA~jlBnfoFoljBn`wF~trDoe}C_o}@_xnD~rkC_skCoofBnm_AnhyC~jiFop{@ojcAnstDorbB_db@~jlB~wq@n{vA_}qE~tu@nnToljB~iwCn{sE_~fD_~i@~nzDndkA_eqFnxwE_zxA_urDnaoAn}}Boh\\obd@~trD~n}@~{BnkXogdEnxzAn~rAobd@~wnD~wq@_hpBnsw@nxzAnqP_etBnh\\n{sEne}C~s`B~`f@~wnDnkrG~h_I_af@nggAnnnG~{_C~snYob~GnmyHnggA~uJnweC_acDn}}BonqC~xFne`@~tu@_urD~dtB_zxA_{m@~uJn~rA_ffE_~i@odhE~bjEn|k@~bgI_d_DnvpD~tu@~vvI_w|A?ndkAnnTnnTng~Lnh\\_ffE~_qAnjcAn{vA_poCnyo@ndkA__|B~iwC~v|AnzDoh\\~bjEofrBnfrBnsw@nxzAo{vA~wkHnp{@n}@~n}@nvpD_af@osw@_g^~gpB~{_C~rNninBn~oEo|k@n~rA~tu@_{m@ninB~vyE~mhBonTokX~heAn_bHo`zB_zxA~x}J_t}EnaoA_ulL~arJ_mV~wnDn|hDn~oEoetO~ylQ~_qAnek[__|B~reKonqCndeI~cb@~vsMo|eHnkrG_qdBnewKoinBo}@_zoM~dnJ_ry@_pRnjcA_fiAou~A~eiA_pRoh\\nwH_d_Doh\\npxDnm_A~lV_db@nrbB_lxLnwbG_qaFosw@_gxG~v|AoneSoinB_|BohyC_mV~`cD_|_C_af@~xF~heA_d|G~jlB~zm@ow_KnhyC~bmA_cmA_vgCntiCn~rA_laAoinB_owHn{vA?oqogD_ieAotL", "_~|qLns{y\\~oR_~fD~bmA~eiAodkA_{jDnp{@_uiPnbd@nyo@~rN_`qAn}@nljB~lV_|_C~n}@og`t@~v|A_i|Lng}w@?_yFo}wJ~fxGopuHoylDoqgK~udG_mmK~gjJomyHnweC_q~I~f^nh\\n_h@ozD~wq@oh\\nggAnggAnh\\nm_A_{m@~n}@om_AoljBn_h@~dtB_db@o{vAoe}C~bmAnofBnr_F_bxBodkAoj`E~yrI_g^o{vAojcA~gpBnbd@__|BodkA~jlB~xF_}tAo_h@nstDo{vA_uu@~iZnj`Eo{sE~gpB~dqFoyo@oh\\nbaD_qdBoh\\oe`@n}zF~xcCodhEne`@~axB__yF~stQ_w|A_~i@naoA_af@_{m@_cmA_~i@ncvBnm_A~wnD_}tAnj`Enh\\ncmNop{@~efE_`qAom_AnggA~xcCojcA~rhG_jZoofB_mV~~{Boe`@_zxA~qy@nsqHo{vAoh\\nu~A~k~D~f^_t`B~cb@~v|Ao}@_poCnrbB~s`Boe`@~k~D~zjDn_bH_yFn~oE_t`Boj`EnzDnylD_l~DoxzA_mV_zoM_ry@ndhE_ieA__|B~gmF~vmUn|k@_qdB~trD~bgInsw@oj`EnflJ~r_S~mhBnflJn_h@_ry@~zm@ndkA~~{B~cvOovs@np{@~pdBnaoA_af@~{_C~kaAotLnh\\~f{C_}qE_uoH~lVovmH_qdB~oR_kiFod_Q_etBn_h@otLoxzA_~i@naoAokuCokuC~mhBnkrGodkA~qy@~oR_t`B_uu@nljB~iwC~heA_|_CnhvGnaoA~jfJo{vA_etB_yF~_qA_ieA_uu@_klBnofBobd@oqPntL~}i@_qdBou~A~eiAnweCnm_AowHne`@nvmH_poC~rhG_laA_enJozD~nwH_db@om_AnzD~qy@_db@~{BnqP~{BozDn_h@owH_sNoe`@_jZ?oqPowH_vJ_|Boh\\_jZokX?~xFnkX~wq@ntL~uJ?~rN~oRnkX~{B_|BnwH~xFnwH~oRnwHotLnqPnwH_qdBne}C_~fDopxDnzDocvBom_A_g^oqP~bmAoggAoxzA_ry@_v{R_ieAoggAoljBnnqC_ry@onqC~eiAnqgKo|k@nkiS_bxB~`cDotL_xnDoaoAnhsK_urD_haV~{B_skCnggA~jlBnkXoofBokX_pfOotLnvpD_etBnqmCoqP_ry@nrbB_poCnwHoqjGokX~~xF_af@ndkAoyo@_cmA_db@n_eDnwH~olG_t`BndkA_poCnhpOoofBocvBo|k@o}tN_kiFo~lI_uu@_seK~n}@_pR_xq@oljBoqPnbaD_db@o{vA_zxA_|sR"]
+}, {
+    "id": "UZ",
+    "label": "Uzbekistan",
+    "shape": ["olvlF_f}gK_l~DnldJ_kiF~xcCoyo@n{pI_acDnkX_}tAnfoFnkuCnr|In`zBowHotL~bjEoxkU?oinBo}tNnewK_xbT_xq@_luP~ooColgF~hbEnqP?_t`BnbaDobd@o}@_hmF~gpB_qdB_jwC_etBo|hDo`tJnwHop{@nzaCn{sEnaoAofoF_}tAovs@~ooC_a`H~gpBnvjL_jZ~dtBojcA_`qA_o}@~eiAn|hD~mbJnqPoaoA~mhBnxzAntL~yuE~~xF_rvDngdE~dtB_db@~dqFo`zB_pRopxD~kxL"]
+}, {
+    "id": "VM",
+    "label": "Vietnam",
+    "shape": ["_|vkC_blcS~`f@ou{EnbaD~{Bnu~A_||F~pdBntfG~lmKndhE~hvT_|sRncmN__|B~hbE~`f@nlgFn`wF~n}@nqmCosw@nofB~heA~n}@n|k@_ieAoe`@nu~A~|tAom_Ao~rA~s`B~{_C_`qA_`qA~rkCn`zBoggA~iwCnocF_shGoqPoxzA~{_C_nhBo}}Bnbd@_zuEoylDnjcAoweC_`kI_dyK~uJ_xq@_vJ_klBoh\\orbB~pdB_ry@_uu@_fiAnkuC_xhL~}cHo}}Bnz~FotiC_zuE_}tA~dtB_~i@_xq@obd@nb~GoylDnbd@_|_C~`cDoggA_laAnvs@_a`HobaDonnGnvs@o|k@"]
+}, {
+    "id": "AF",
+    "label": "Afghanistan",
+    "shape": ["_mhbF_yghMn_h@njcAn_h@nqgKnweC~x`GntiCoaoA~rhGninB~{BnocFntiC_`qA~qy@~c_Dn{sE~cb@nqmCnw|N~rhG~yxA~|tA~gaVo{vAnmyH_qaF_l~D_w|AngdEosqH~wq@o{vA_ieA_bxBn~rAob~GokuC~heA_gxGocvB_cmA_`qA_plG_acD_ry@oyo@_zrI~cb@_eqFntL_xkHotfGogaIninB_bxB~gmFoqP_jwCoj}H~}i@omyH"]
+}, {
+    "id": "AL",
+    "label": "Albania",
+    "shape": ["_vjyF_{suBobaDntLokuC_uu@~uJ_`qA~xcC_qdBnm|Do|k@nwH_g^nocFnm|DoqmC~rkC_etBoh\\"]
+}, {
+    "id": "AG",
+    "label": "Algeria",
+    "shape": ["_or_F_caQ_jZ_npa@~_qA~|tA~dnJotLnnqC~lsCnr|IosqHnflJ_w|AnuuMoaoAnz~F~rN~heAnxzA~wkHo_eDnp{@oz~F~iwCo~rAn|yW~_vd@~qy@~toHne`@~trD_acD~oRou~AnhvGo_s[n_jg@ou{EnihJ_qaFnqgK_fiA?_cjE?_lxL_kw]oqmCnbd@oaoA_sbO_sbOninB_laA~yxA_shG_ehRojcAoqgK"]
+}, {
+    "id": "AO",
+    "label": "Angola",
+    "shape": ["nqub@_kmtAnwH_|vN~tlL_cjE_pRoxtI_ibEoe`@~tu@_otLnq~VoxzA_laA_zrI~}`LozDo}@~oiKncjR?~c|G_a`HnzD~`f@~heAnryMo`zB~vsMnzD~afZoxzAnbaD~qy@nkrG_biV_msC_i_I__yF_jnOne}C_vgCoaoAog~Lnr_F_{m@_rvDo}@_d_D", "~cm[os{nAnxwE~zjD_msC~cb@_bxBonqC~zm@op{@nzD?"]
+}, {
+    "id": "AM",
+    "label": "Armenia",
+    "shape": ["_{mzFojqrGnm|Do_eDnyo@~bmA~_qA_rvD~xcC?~xF~heAotiC~heA_~i@~ooC~uJ~qy@_cmA~vyE_ibE~`f@obd@_uoH~oRokX"]
+}, {
+    "id": "AJ",
+    "label": "Azerbaijan",
+    "shape": ["oqvqF_ucrG~}i@_poCntiC_ieA_hpB~meFo_h@nbd@_sNnzD_vJ_ry@", "oszvFotwtG_vJo}@~xFowH~{B~uJ", "ovp~Fouf{GnzaC_kiF__|Boe}C~qsHor|InnT~zjDn~lI~dtB_cmAn|hDoljB_laAom_A~eiA~`cD~fxG_ycC?_`qA~qvDoyo@_cmAom|Dn_eD_pRnkXnyo@_~cHo_eDntLnzD_mV"]
+}, {
+    "id": "BF",
+    "label": "The Bahamas",
+    "shape": ["_|_`C~rx|L~`f@n}}BodkAozaCnbd@~{B", "ojtqC~qnyMovs@_vJ~jlBonTosw@ne`@", "_{xxCnnf|MnweCoxzA~zm@~qy@_laA~_qAofrBoyo@", "orgbD~vqzM~wq@nhyCo_h@nvs@owH_`nE", "ozfcD~qnyM~bmA_vgCn`zB~f^ozaCowH_ieAnfrB"]
+}, {
+    "id": "BA",
+    "label": "Bahrain",
+    "shape": ["o`b_DoclsH~_qA_yF_g^nnT_xq@otL"]
+}, {
+    "id": "BG",
+    "label": "Bangladesh",
+    "shape": ["_rseC_q}hP_skC~f^~n}@_uu@~bmA~lV", "op`aDonvzOndkAoz~Fn|hDonT~wq@__sNnnnGncsF~ugCo{vAokuCozaCn{pI_o}@nstD~kaAnp{@_vJoxtI~axB_af@n|hDovpD~zm@nxtI~n}@o}@nyo@_ry@owH~f^~iZ_w|AotL~iwC~_qA_bxB_yF~xcCnggA_w|Anbd@_dyKnp{@_zxAntiCocvBom|DoljB~wnDotiC_o}@"]
+}, {
+    "id": "BB",
+    "label": "Barbados",
+    "shape": ["oysnAn}ijJ_uu@nnTne`@o_h@nnT~oR"]
+}, {
+    "id": "BH",
+    "label": "Belize",
+    "shape": ["_kxoB~ulzO?_sNn|eHoqP~|qE~ugC?np{@o}wJ_sN_|_C_msC"]
+}, {
+    "id": "BN",
+    "label": "Benin",
+    "shape": ["_hue@_kcN~lV~`cDo}qR~zm@opxD~axB_bxB_jZ_xnD_a`H_t`B_}tAntiC_msCnxwE_xq@~wkHn~oEnnhOntLnzD~zm@"]
+}, {
+    "id": "BT",
+    "label": "Bhutan",
+    "shape": ["olijDo|dgPnp{@olgF~wnDoaoA~iZnryM_etB~rkC_d_DozaCntL_{jD"]
+}, {
+    "id": "BL",
+    "label": "Bolivia",
+    "shape": ["nmyeCnl{lK~{B~jlBom_AnxzA~bjE~nzDn}@~ugC_twM~zjD_l~D_o}@or|I~bjEokX~{BoocF_ycC_skC~dtB_k`RonqCovmH~wnD~f^oj`E_kiFoz{Jo_h@ocsFndbModkA~p~I_yqZno}Mop{@~{BoldJnm|DntLnpxD_{jDnw_K~~{B_d_D~qvD~qy@~rbOnzxN~wnD_{m@~{|Fn|hD~eiA_|_Cnvs@_mV~dtB"]
+}, {
+    "id": "BK",
+    "label": "Bosnia and Herzegovina",
+    "shape": ["o}wdGogvjBowHntL_buF~fxGom|DnjcAnp{@owyRne}C_hpB~mhBndkA~qvDnkuC_o}@ne}C"]
+}, {
+    "id": "BC",
+    "label": "Botswana",
+    "shape": ["nt}oC_spcDn}wJnezG_fiA~ggN~toH~udGozDndhEopxDoe`@oxwEne}C_azO?o}@oj`E_wmU?_o}@odbMnu~A_o}@oweC_i_In{pIovpD~k~D_xkH~_nEop{@~axBotfG~toHnuuM"]
+}, {
+    "id": "BR",
+    "label": "Brazil",
+    "shape": ["~``H~uw{H_ry@o}@_pRo|k@ojcAowH_af@oaoA~v|AntLnxzAn`zB", "n|k@n~knH~uJ_vdGnkuC~wq@nljB~mhBnbd@nkrG_{gH~rNowHopxD", "_pz^~gymJ~ugCnwH~axB_hpBnikF~_qA~nzDojcA~mhBobaDonqC_`hMnwHoinB__|BntL~`f@oqjGnkXoaiIoldJofoF_ieA_jZ~v|Ao{vAnxtIoaoAn{vAonqC~mhBozDnz~F~rhGncvB~|tA~tu@n}@~iZn_h@ne`@~{B~wq@nkuCnqP_t`BokuC_shGn_eDobd@_mV~xcC~axBnnTorbB_jZnnqC_zxA_vgCoe`@_pRonnGn_eD~`f@o{sEohyC?_qdBo}@~n}@ofrB_xq@osw@oe}CnqmC_dyKn~rA~{Bop{@ou~AnvpD_t`B~nzDn~rAoylDoqmC~_qA~tu@_zxAoj`En}}B_dyKoe`@ocsFnhsKovgPnsw@oxtI~swM_bxBnvmHnu~AnsqH~gjJ~dnJnylDndkAn{vAop{@naoAnui]n|k@nxhY~jfJnstD~_nEoyo@nalE~eiA~qsHnp{@_sNnrbB~p~InpuHnldJ_yFnrbB~f^_ieAnu~A~|tA~s}Eop{@nz~F~tu@n{gU~ocSo~lI_~cHo{vAntiCnhyCo}@~e}P~cyKofrBnh\\_`qAo~rA_msCnhyC_wyE~_kIn|k@n~rAom|D~f{CntL~f{Coz{J_kfJ_zuE_y}JoezGnwHonT~ooCoylDovs@_msC~rN~xF~hbEodeI~|tA_af@~}`L__vJne`@ow_K__|BopxD~zjDom|DotL_|BnldJoo}Mnp{@_q~I~xqZodbMndkAn_h@ncsF~jiFnz{J_g^nj`E~uJ~_nE_rsH_mVninBnj}HorbBn|k@_sN~`cDo~rAoyo@_gxGnalEo{sEoylDowbGovs@om|D_guKnqPoe}C_luP_hpBo}wJ~{_C_vJ_urD_`qA~rkC__|Bn}@_yF_|yJodkAou~A~trDoljBninBotfG_~cHo__Lom_A~{_C_q~InnqC~rkC__vJoxzAokXou~A_wvI_ycC_xq@_|Bo`zB"]
+}, {
+    "id": "BX",
+    "label": "Brunei",
+    "shape": ["_oh\\_|f~Tnu~A_mVorbBnp{@_sN_mV~oRotL", "oaz\\_`x|To}@_yF~zjD~eiAoinB~mhB_ry@_{jD"]
+}, {
+    "id": "BU",
+    "label": "Bulgaria",
+    "shape": ["_endG_idiDnggAn~rAnu~A_klBozD~axB~qy@ndhE?ntLnxzA~hbE_pRn~iM_l~DninBo|hDo`zB__|Bn`zBodkAop{@~mhB_~cHoxzA_rmP~bmA_xkHnvpD~ugC"]
+}, {
+    "id": "UV",
+    "label": "Burkina Faso",
+    "shape": ["_mcbAnvgP~zgH_jZoxzA~qvDnyo@n~oE_poC~c_D_mpGoyo@_zxAo_eD_kiF_zxAnm_A_qdB_wyEom|DohyC_zrI~f^om|D~gmF_ieAnjcAoweC~qy@~qy@~heAor_FnhyC_xq@~wnD~``H_jZn~oE~iZ~ljO"]
+}, {
+    "id": "BY",
+    "label": "Burundi",
+    "shape": ["nl{Uo~kqDogdEn_h@~{BobaDo{vA_pRnqP_bxB~}fD_xq@nlgFnkrG_vgCnbd@"]
+}, {
+    "id": "CB",
+    "label": "Cambodia",
+    "shape": ["ogewAocaoS~cyK_vJnweC~_kInylDojcAobd@~yuE~mhBn}}B_sNnbaD_|_C~uJ~tu@n~rA_msCn_h@o}wJ~mhB_msC_g{C_|BonkK~_qAo_eD_}tA~uJ_laAovmH~wq@~uJ"]
+}, {
+    "id": "CM",
+    "label": "Cameroon",
+    "shape": ["_hwlA_t~wAnbxO_zuEnjcA~|nInr_F_eqF~nzD_ry@n_bH~|qE~itGop{@~vsM_a`HninB~iZorbB~}}O_mVnkuCnnT~meF?nz~Foe`@~}i@oyiHnqPo|k@~ooCotiCndkAotcKoikFovs@_d_Dn`zB_skC__|B_qdB_jhWoz{J_qdB_acD_~cH~gpB~rNo~rA~wq@_sN"]
+}, {
+    "id": "CV",
+    "label": "Cape Verde",
+    "shape": ["oqkyAnwvsConT~f^okXoh\\~zm@o}@", "_xlzAnacnC~xFn|k@op{@nqPnvs@_o}@", "_y{`BnpriCowHnyo@oh\\_g^~`f@oqP", "ofgdBnjtqCnnTnsw@_g^nnTnwH_cmA", "ovefB~nhyCobd@nwHo}@_ieA~`f@np{@"]
+}, {
+    "id": "CT",
+    "label": "Central African Republic",
+    "shape": ["_xjs@_tisB_fiAntLoh\\_plGoyiHotfG_uu@or_FnalE_g{C~paFnh\\~}fDo{pInvgPosnLoe`@nsqHnggAn~fQnweC~pdB_uu@nr|I_skCnocFnhyC~zjD~}fD_sNowH~x}Jnz~Fn{vA_wsM~``H_jtGnp{@o_bH_}qEorbBoozQ_nhBoxzA"]
+}, {
+    "id": "CD",
+    "label": "Chad",
+    "shape": ["_ajnA_`owA_sNn~rA__|B~|tA_poC~f^oo}M_piK_{~SorbBor_F~f{C_~cH~`f@o{vA_ibEnnbW_oyo@~deV?~iZ~_nE~`zOnxwE~cb@__|B~_kI_cmA~tu@nr_FnyiHntfGnh\\~olG~eiAotL~mhBnxzAnrbBnozQ_ozD~qy@or_F~dqFojcA_}nIobxO~yuE_xq@~rN"]
+}, {
+    "id": "CI",
+    "label": "Chile",
+    "shape": ["~jmnI~jn`L~oR~{_Cn_h@o_eD?~mhBnkXofrBnp{@onTo|k@nm_A_|B~jlB_sN_g^_yFnkXoh\\onTozDn`zBnjcA_xq@ojcA~}fD_af@oj}H", "~penI~gu|K~}i@oqmC_af@nz~F_|B_hpB", "~naiI~}|qL~qy@_jZ_~i@~gpB_sN_}tA", "~cfhIn`mtL~bmA~cb@_cmAnaoA?ofrB", "~ovgI~x|lL~cb@otLonT~qy@~qy@oh\\_db@~heAou~AojcA~qy@oqP", "npbeInf_|LnggAokuC~kaAnqmC_ry@_jZ_sN~}fDom_A_ycC", "nxdbI~lzdMobd@ndkAnfrB_fcI_cmAn`wF", "np|lI~pzoLozDoh\\n}@~oR~{BnwHoyo@~|qEnqPoflJ_`qAnnqC~qy@_poC_db@_sNnp{@osw@_uu@nqPne`@_bxB~zm@~iZonT_af@_mV_|BozDoe`@om_AnalEosw@~iZ_zxA_d_D~{Bn{sEoxzAojcAokX~n}@okX_q~In|bL~{B_sN~h|L", "nwxwH~{fdMom_A~uJ~tu@okXnwHntL", "~qluH~fbeMn|k@n}@_mVnljBonT_klB", "nmruHn{zfM_g^~wq@ozD_af@nbd@_vJ", "nidsH~lzdM~heAoe`@oggA~v|An}@op{@", "nyeqHneaiMnbd@naoA_o}@_vJnkXojcA", "~ytjHnapjM~lVnggAo|k@_ry@nnTotL", "~ywfHngkfMn`wF_af@nm_A~heA_vgC_mV~mhBnggAoinBn{vAn}@oljB_nhBnkX_pR_}tA_af@~_qA_fiAosw@~kaAokX", "nvreH~hfjM~|tAo}@_bxBnjcA~cb@_laA", "~f}dHnwihM~tu@nnToggA~}i@nqPom_A", "~klvG~}meM_laAotL~`f@_db@~iZnyo@", "~nhvGnwo`MoqPnkXo|k@_sN~n}@owH", "n`htG~_xbMnwH_af@~oR~n}@oh\\_mV", "nxhsG~epbMntL_af@oqPndkA~{Bobd@", "~`tqGnyvaM~tu@_mV_mVnrbB_g^odkA", "~aipGnc}cMoh\\~`f@~uJ_nhBnqP~kaA", "nd|nG~bzzL~uJ~wq@~rNoh\\nyo@ndkA_mVnbd@_|B_af@o}@~cb@oh\\ntL_~i@o|k@nkXorbB", "~}f~Fns~aMn~rA_qdB~wq@n{vA~dtBom_Answ@nggA_g^nljB_jtG_qdB", "~htjB~hagLnr|I_cjE~k~D~n}@~swM_{jDo}@_vgC~jiF~f^nnqCnfoFn|bL_uu@~``HnqjGnr|Ine`@~hbE~ugCnurQ_skCngdE~lsCnylDoh\\~ugCnkuCn{pIoggAngdE~zjD~dkNnzDnbd@~bmA~fuKovs@ne`@onqCn|k@nm|D~pdB_jwC~heA~v|AndhEonTnhyCnweCnwbG~`f@~ooC~efEnikFoaoA_pR_{jD~}fDnnTnu~Aou~A~eiAovdTnjcAn{mM~paFnxzAou~AnocF~lVo}}BotiCo`zB~wq@~olGnnT_ieA~iZ~yxA~}i@oyo@op{@~c_D_etB_zrIoqP~x`GnofB~cb@_vJnxzAou~A_klBn_h@~f{C_vgC~xFnbd@_cmAoh\\_laAnbd@okX_af@_sNnzD~f^onT_{m@~v|A~`f@ozaCo~rAom_AnkuC~n}@_ycCoe`@~rkCnyo@_ieAn|k@~n}@o~rAnh\\~s`BonTonT~tu@o|k@~rN~`f@_{m@om_A~uJotLn{vAoyo@_|Bnyo@osw@_zxAnnT_~i@~mhBo|k@_skCoh\\nbd@_g^oh\\n~rA~v|AojcA~zm@~uJoaoA_laAne}CnqP_d_D_|_C~yxAnkX_bxB_uu@~bmAo{vA_uu@~bmA~mhB_ffEojcAodkAn`zB_|BohvGoxzA~s`B~n}@n_h@okXne}C_pR_vgC_db@nu~A_cmA_etBoyo@~kaA_yF~ooCop{@otLnu~AnxzA_af@np{@_rvD_shG~{B_~i@~tu@oe`@~oRnnT~uJn|k@_vJ~cb@~rNoh\\otLosw@nqPowH~uJoh\\okXne`@_sN_jZ~oR_mV~uJn}@nqP~xFne`@nbd@~xFoqPo}@otL_urD_|_CnnTnaoA_o}@otL_yFoweC_}tA~jlB_yFoyo@obd@oggA_uu@_g^om_A~xcC_rsHonqC_uu@np{@ne`@o~rA_nhB~|tAoxzAoljBnp{@~fxGo|k@_xq@oljBnrbB_uoH_jwC_ulL~_qAotLo{vA_|mZoxtIoxkU~rNoa`Uo~oEoflJne`@_jqKoinB_qxQ~heA_acDovpDnkX_|B"]
+}, {
+    "id": "CO",
+    "label": "Colombia",
+    "shape": ["os~jA~pwsL~dtB_{m@nbd@~{_C~mhBnrbBnz{JnylDnqP_etB~iqK_jwC~xF_enJ~wnDo|hDonT_q~Inj}HnaoA~paFoinBninB~mhB~|tA__|BnocF_o}@_urDnljBndkAnu~A~xF~{yJ~~{Bo}@~_qA_skC~uJ~trDn}wJ_|_C~kuP~gpB_zxA~lsCo`wFo~rA_ieAnkrG~heA~meF_t}E~xcCocsFn{pI_t`BnewK_~fDnikF_af@~}i@oj`E_{m@oe`@obaD_y`GotiConT~bmA_boNoqP_|_CnljBotiCozaCoqmCnh\\nnqCocvBo}}Bne`@_{jD_||FotfG_ieAom_AoaoAndkAoxzAofrBo|k@nzD_{jDor_F_}nI"]
+}, {
+    "id": "CN",
+    "label": "Comoros",
+    "shape": ["nixhAompnGnsw@_|B_~i@~qy@otL_uu@", "~_{gA_hghG_db@~zm@_fiA_vJ~jlB_db@"]
+}, {
+    "id": "CF",
+    "label": "Congo (Brazzaville)",
+    "shape": ["ymfTm{tpBzks@kdBhjN|}Dr~IbcMzfbAntYfeVrzJvec@vyVbse@pvWpcoBx|Av}g@fwFjc_Bhe^vvaBkePvqQ~pB~yf@xi[h`~@bhQvwZmfDhzW_@bkk@txRvgbAvd_AhaZ`eaArv^dl^f}vA|rj@h{h@|a`@`va@|og@l~OboCbsoBsiAxum@hj@n{q@_rF~{sAvvn@jx^jbM~sHpfLjhLznt@jsJ`gInu\\roGpvGnvGdqAhl]vbUxrVzqgAlvz@jfQbzWf{CjnKioLxa^pcH|~Mghw@b~EmcGhsBuxRqzT_wDybAuuObgPecLwcBlid@bzqAxxDbbDg_AppOimJzaId`BbnPl_v@fpFlvN~hg@xmNdkOmyQ`xEacSdib@imQ`tHcgBvtGpyJb|@wz[d~_@otL|cD}cDvmUz|XlvUbkFhyA`lGrim@nid@lpVaxEpwO|vYzxFzjW`p]glE|zDeqaAbqj@qqIuhGutNdyHwp}@|wfA}wS~yGwwZrxa@s`ChgBwun@adSahQg~d@slKwsF_Y{`Ov~a@seYjPmbd@cdMyzFcfHjdOknDfDgwk@cbYw_E~hBwhWnmq@ifXkhE`z@qtEsnFc}Eedd@f``@xnHpfLg_AtdCciKkPyfNmzKs_Sg}E_uu@hiMxpCk{S~rNmqIwzFmbFaiKcrd@xiJkfJ_pKocxAqvl@wsFykLhoLcw[q\\rbHqhGisBcwD{kEbYikHigYnkXgdd@brd@wpJhqGajLnmSunFjeI_s@zaP}hzAgto@atm@wyEsG{iJymGnur@ie^~vKnzKhlIgyAhsBsxg@m|Fo|Fk|TuvWaeUf{QsnFccL_xj@arFipM_h_@alN`s@kyX}yGwrLfdOkhEowHcxc@qfLqkJjfJygVckFy_b@txKwzqA{}R}tPdbK_tOph\\xvBffXaoQdgBk}N~xFcoCvtl@uuO`xEeff@cbRgx@bdFweb@pyC_jZ}yN_wKg{Q{bJkc@u~Ja~Del@ima@ccx@kwd@_un@d}SgaCbgIm`i@~qFyhF|pFwcEhxM~{BvuOqlKdg`@f^~pSbbKpxB~xFjta@~uJnoNwwCp`[zcK|eM~cA|jVg_EjqEo}GiiM}uQeaCsx`@ngTggYyZsgMufEaaX|nAsv^ezWa~Qwc@vVsbtA}Ecs}BdDul[onGuqGv}Z_km@{aIw}IvpJ}sH`tH~nCt@c|KapDebDrcIk_QapDioLecEq}@zgHquV|~L{qK}{Iec\\bq\\whjAxtGe{JnxBirOl{SgsIcdMgsPcw[pnFqlRplKqud@_wD_uIqvUcvyBitx@c_{@~tB_p~@evSyjKepTdaCmx^uaG}zA~}DouTuaGanPipF_nu@yqKahJmaEiqNreKmwObnBogb@hmQgoSuaGylMpnFowHciDoyJd`BgmQjhL}xFmeBowHikOkpFva@woWyqKygOblGucIt{Gc`BnpM_aN"]
+}, {
+    "id": "CG",
+    "label": "Congo (Democratic Republic)",
+    "shape": ["zscZyvqrDszlBtgd@ma`Dm\\is|@zph@uqbAht]{w]c_p@}`wBex\\o~m@eu~@gv|GkwVslnA{bn@ej`AvMco}F}veGsx~@r|nBkdkE{eXip_@rcMbcHlyj@}|o@pcAqbRj`bAcedCxfmBy}Bdha@da}@`xj@kgh@z`yA~es@p|pAiq{@``oBwsc@l_C{sk@bg|@gpc@fhfAbu`@dcj@czA`ehAsm`AbmyDj{Ktxa@tqw@r`MphUfokBgif@txbA`gdBl`{D}ek@zvfB|gfCrwiBosw@~ryIojcA~ll@g||@|f`ByaHhbrA~fi@pp_A~jeB|d`A|zHbng@nagDevNttaA`x@tyqDtieBzfoFdsi@`wrB{aPtmwDpro@pvxAf_kAf{o@|`yAx}sDnmaC~a_FwlEt`wBvu`A|nUdkdAjydDhchD_|B`|o@u`uBrpAti_@f}bCjeu@x~D|s]zcw@ywo@hs}@t|jAzkdBvdhCt{GltGt}{@tmo@_fj@o~f@_gyAjtGa{u@duGefwStp|Fg~eA|qnD}jeCam^_~mDp~ImedDqtaEqm_@_dOo`tExegAlyNwMcaoFrblClmCdd_B{bc@pwqD~~[ne{Di_eBbzcAgGtzXf`\\ficAoaPwka@ag|@ig@kd{Fir]o|Wjcn@opoAtocA_{Hmgq@ozmDrntAwvB|tq@}e|BvoLwwhDmehAwa^y~Bcja@dljCgevAd_m@umyC~liDcynBwda@ynoBnod@utFptEwv_@oy{FcTpiQ|v_Atah@yq@sbObxwAul_Dnf`C_ooDkb`AagnAjgSs}vAmsRmoiB`e}@uuqA{|~Ac`cAkoEw|v@yclJaxkElbxA}udDnjtCk~nBs{NaryCnlv@gi}AmvM"]
+}, {
+    "id": "CS",
+    "label": "Costa Rica",
+    "shape": ["okebAncjfOnqP_gxG~rhGo{sEnqPnggA~fxGozD_|yJ~jfJo|k@~s`BncvB_pR_o}@~pdBoocFnzDntL_etB"]
+}, {
+    "id": "IV",
+    "label": "Côte d'Ivoire",
+    "shape": ["owp^npf\\~c_D~cvOo_bHonTozaCnlgFoalE_jZ_zxA_qdB_w|Anyo@~lVoljBor|I~n}@~{B_l~DofrBonqC~mhBokX_{m@ofrB~ooC_d_Doyo@o~oEnxzA_rvD~~xF_af@npuH~lsCn|eH_o}@otL~gjJ"]
+}, {
+    "id": "HR",
+    "label": "Croatia",
+    "shape": ["okoeG_|qhB~lVojcA~n}@oe}C~lV_yF_klB~jiF", "odbgGo_zeB_vJn{vAozDojcAnqP_pR", "onbqG_fgwA~qy@ozD_ry@~`f@o}@onToyo@~rN~wq@_jZ", "_jhqG_yayA_jZnm_A_g^onT~qy@_~i@", "_cuzGoicdB?_yFn}}B_`nE_sNor_F~xcC_etBnggA~eiAop{@nwyRnm|DojcA~auF_gxG_zxA~ugC_pRnylDoo`Jn|eHo}@nbd@~kaA~lVn_h@nvs@otiCnp{@nwH_rsHohyC_w|A_xq@_urD"]
+}, {
+    "id": "CU",
+    "label": "Cuba",
+    "shape": ["o{sbCn`zvNowH~~{B_o}@_~i@nggA_`qA", "ohplC~rnsN~zm@ow_K~`zO_j_c@~heAnd|TobaD_w|A_yFne}C_rvD~ugC_nhBnrvQ_~i@~kaAoqPorbBobd@~zm@_|Bn|hD~s`BncvB~xF~jlBnyo@~oRnwH~trDoh\\ocvB_o}@~uJom_A_o}@oofB_guK"]
+}, {
+    "id": "CY",
+    "label": "Cyprus",
+    "shape": ["ohwvEogklE_laA_rvDnu{E~toH_w|A~lsCop{@_plG"]
+}, {
+    "id": "DA",
+    "label": "Denmark",
+    "shape": ["_}rqIorr`An{vAnyo@oxzA~c_D~{Bo~oE", "opvtIoavkA~efE~s`B_msC~jiF_xq@_`kI", "_elzI_emu@n|k@nh\\owH~wq@_db@oaoA", "oni{Iogz{@nqP_laAn|k@?~oR~|tAn_h@o{sEnqmCnkrG~c_D_~i@~uJ~n}@_sNnhyC_qdB~xF_mVnofB_zuE_sNne`@_klB_jZnwHobd@_cmAnnTotLnkXnqP_vJo_h@~oRowHodkA~iZoh\\ohyC", "o`o~Iobt~@~dtBnqP_pRnm_A~xFnylD~oRn{vAnvs@nyo@o}@oe`@nnT~xFokXnp{@oaoA_fiAozDokuCo~rA_klB_g^_vgCnh\\~}i@"]
+}, {
+    "id": "DJ",
+    "label": "Djibouti",
+    "shape": ["otveAo`tdG~lV_fiAnxzAnp{@o}@nr_F_d|GocvB_{m@_skCn}}Bosw@nu~A~wnD_|B_ieA"]
+}, {
+    "id": "DR",
+    "label": "Dominican Republic",
+    "shape": ["o}cxB~e_oLnu~A_uoH~wq@naoAnh\\_xnDnfrB_uu@otL~ntLnbaDnqmC_}tAnjcAodeI_|B_jZom|D"]
+}, {
+    "id": "EC",
+    "label": "Ecuador",
+    "shape": ["n}@~kwkP~rkCoaoA~qy@ninB_}tA_ry@ofrBnofBn}@odkA", "_eqFnrt~M~}fDoikF~s`BoewKo}@~kaA~}fDoaoA~jlB~kaAncpJ~}}O~paFnggAn~rA~kaA_hpB~dtBn}@~c_D_`nEokXoqjG_hpBnqmC~s`B_`qAn`zBo}zF~{B_cmAo}}B_d|G_af@ocvBocsF~`f@_~i@"]
+}, {
+    "id": "EG",
+    "label": "Egypt",
+    "shape": ["_jg_E_ipyC~xcCol{U_jwC_y}JntLoylD~yxA_~i@oyo@_guK~oRowHn{pIo`zB~vvIn}}B_d_DngdE_d|GnzaCnaoAn|k@~jta@ovdT_|Bnm_Anm|Dobd@nm|D_hmF?~ne`@?nwjf@ouzp@nsw@_a`H_}tAnh\\oe`@"]
+}, {
+    "id": "ES",
+    "label": "El Salvador",
+    "shape": ["_l_wA~eh`P~jlBopuHn{vAntL~}i@~rkC_klB~toH_ycConqCn}@o}@"]
+}, {
+    "id": "EK",
+    "label": "Equatorial Guinea",
+    "shape": ["oyfLo~e|@?oz~FnocFo}@?nvmHoe`@~|tAoocFo{vAne`@_~i@"]
+}, {
+    "id": "ER",
+    "label": "Eritrea",
+    "shape": ["ogvjB_cykFn}tN_urDoaoA_g^~}fDo}zF~~uJoz{J~zm@~rkCow_KnyfL~{B~szI_zxA~mhB~iwC~kaAojcA~tu@nbd@nnqCoycP_zxA_urD_owH~kaA_af@"]
+}, {
+    "id": "EN",
+    "label": "Estonia",
+    "shape": ["_itdJofikC~f^_laA~pdB~udG_hpB~f^_pR_qaF", "_mbgJojziC~f^_ry@_pRngdE_vJotiC", "on}jJ_dj|Cnh\\_otLnzaCnfrB~qvDodkAnm_An{vA_nhB~fuKn_h@~k~D_zxAoyo@_yFnbaD_acDnvs@_`qA_cdM"]
+}, {
+    "id": "ET",
+    "label": "Ethiopia",
+    "shape": ["_d`vA_v_~Eobd@onqCnjcA_uu@_jwC_laA~yxA_nhB_|B_tzInw_KoyfL~c|GncvBn}@or_F~iwCnqPnikF_qaFngdE_jhW~m|Q~vpQn}@~auFnvpD~szIop{@nu{E~zjD~auFoikF~ezT_jqK~dqF_eqFn~lI_nhB_xq@_mVo|hDow_Koe`@_db@oinB_zuE_{m@_{jD_cjEovmH_cmA"]
+}, {
+    "id": "FJ",
+    "label": "Fiji",
+    "shape": ["~`{aB_mkia@~s`B~v|A_{m@o{vAnp{@nzDn}@~itG_hpB_a`H", "neuaBnkmia@_|BnzD_|B_vJ~xFnzD"]
+}, {
+    "id": "FI",
+    "label": "Finland",
+    "shape": ["ohuiLo}|jDnvs@ogdEnfrB~}i@nh\\nofB~uJodkA~~{BnkXnrbB_vdGnhyC~nzD~meF_`nEnhyCnu~AntiC_rvD~v|AnfrBnbaD_owH~|kM~gaVnnqC~_|\\_~i@o~rAom_Anyo@_ry@n{pI_xnDop{@_`nEncvB_etB_}tA_zrIonbW_klB~iZ_ry@~s}E_t`BnrbBou~AojcAozaC~gpBoxzA_{m@o`zB~gjJou~AnfoFovs@_poC~axB_}qEnkXocmNotfG_{gH~{B_}nI"]
+}, {
+    "id": "GB",
+    "label": "Gabon",
+    "shape": ["_i|L_ilkA~lVokuC~qvD~oRoe`@_ibE~v|A_ry@nxwE~~{BnaoAozaC~~xFnqP~dtB~n}@_cmAnjcA~tu@~lsColjBnjcAnrbBne`@?nvpDnz~F_ieAnsw@nhyCovmH~zgH_zrInvpDovs@ofrBoqmCowHne`@oinB_laA~axBoxzA_t`B?ovmHoocFn}@onT_neF"]
+}, {
+    "id": "GA",
+    "label": "The Gambia",
+    "shape": ["o}aqAnqbeB~`f@oofB_db@_yF_vJ_~fD~xF~`cD~lVnyo@_xq@~cb@_{m@_~cH~_qAo`wFobd@nz~Fn|k@~cb@~{BnrbBnbd@n}@~oR~qvDodkA_|B"]
+}, {
+    "id": "GG",
+    "label": "Georgia",
+    "shape": ["oezaGofr|Fom|DnvmH~`f@oskP~dtB_`nE_db@_ffE~}fD_{gHn_eDotLoyo@~}cHnbd@~toHoxzAn`zB~uJ~{|FoylD_|B"]
+}, {
+    "id": "GR",
+    "label": "Greece",
+    "shape": ["_oxwE_dspCndkAoryMnbd@~wkHojcAnfoFo|k@_laA", "o{blF_`enC~}fD_zuE_acDn{pI_|Bo`zB", "onq}Fowm_D?otL~heAovs@ncvBnfrBo}@~e`M~dtB_|_C_pRnalE~kaA_ieAoinB~vyE~{|FonqC_db@~bmA~n}@okX~cb@nljB~{_CovmHnljB~xFodkAnrbB~f^nofBn{vA_qdB_jZ~iwC~s}EoxzAoggAninBnaoA~iZo`zB~kaA~`f@n{vAodhEnfrBou~AonqCnbd@oqjG_ry@nbaDnh\\ncsF_t`B~_qA_af@_`qAoweC~s}EoocFom|D_w|A_y}J~oRo~iMoxzA_ibE"]
+}, {
+    "id": "GT",
+    "label": "Guatemala",
+    "shape": ["ou_tAnddhP_bxB~k{H_{gH_qdB_|Bo}zFor_F~hbE_|B_zxA_klB??_kfJn}wJ~rN?op{@ne`@_vgCn}zF~s}E~xcCnnqC_db@nofB"]
+}, {
+    "id": "GV",
+    "label": "Guinea",
+    "shape": ["okkz@~f_rAofoF~itGoljBom_Ao_h@_l~D_ozD?nvs@_`hM~pdB_skC_etBo_bH~hbEo`zB~pdBnh\\_yFodkA~`cD_o}@nr|I_o}@_mVnljB~v|Aoyo@~yxA~pdB~`f@~efEoj`Eo}@_jZnhyCnbd@n~rA_msCokX_rvD~~{BnnTncsF~}fD~`cD_vgC~qy@"]
+}, {
+    "id": "PU",
+    "label": "Guinea-Bissau",
+    "shape": ["_qklA~|rwA?oe}C~nzD?n_h@~k~DnljBnm_A_fiAnu~Aoyo@_w|AokXnofBoyo@_klB~zm@~nzDovs@_xq@ntLnljB_cmA_jZn}@ncvB_ieA_ulL"]
+}, {
+    "id": "GY",
+    "label": "Guyana",
+    "shape": ["_|{q@nv|kJnj`E_y`G~trD~cb@_zxA_laA~ooCoxwE~{_CnwH~``H~f{CnhsK_rsHnnqC~_hM_nhBnbaD_ozDnjcAoikF_`qA_bxB~gpB_vgCowH~{Bn`zB_poC~{_CokuC_xq@ojcA_acD_w|An~rA_vgCoylD_ry@~f^~`f@_af@"]
+}, {
+    "id": "HA",
+    "label": "Haiti",
+    "shape": ["_sqxBnjpzLn_h@_urDndeI~{B_ry@~ljOom_A_db@~iZ__vJ_urDnggA_{m@nnqCo|k@_g{C"]
+}, {
+    "id": "HO",
+    "label": "Honduras",
+    "shape": ["o}u`B~r|jO~cb@_rsH~`cDou{En}@nnTne`@ndeI~mbJnxqM_`qA~pdBo{vAotL_klBnpuHo}@n}@o}zF_t}Eosw@o{mM"]
+}, {
+    "id": "IC",
+    "label": "Iceland",
+    "shape": ["_~trKnj~zA~heAoqmCnsw@~}i@_|BopxD~n}@~_qA~lVoofBne}CnhvGn|hD~gaV_klB~_hM~iZ~h_I_acD_neF_{m@n`qN_jZ_rpL_jZ~rkC_uu@_~fDowH~tiP_{m@oz~FokX~~{BnzD_|_Coe`@ncvBobd@ojcAnjcAoalE_bxB~pdB~|tA_xkH~wq@~eiAncvB_vgCom|D_xnD~bmAoqmC_zxAozaCnljBotiCoofBn|k@~rNo~lI_`qA_vJ~iZ_nbJn|k@~heA"]
+}, {
+    "id": "IZ",
+    "label": "Iraq",
+    "shape": ["ojatE_ipvGnstD~bmAngdEotiCninB_y`G~dtBo~rA~f{Cne`@~bjE_~fD_vJncvB?n}@?~lsC~trD~axB_pRnldJo`tJ~rbO_cjE~nqPofoFnaoA_cjEosnL_|yJosw@onqCo~oE_yForyM~paF_bxBne`@_rvDnvpDnljB"]
+}, {
+    "id": "EI",
+    "label": "Ireland",
+    "shape": ["olknIngfl@nrbBnnqC~kaAocpJnr_F_xq@nkuCnjcA~ugCnpoP_ry@nxwEoggA_hpBozD~ugCou~A_i_InnT~vyE_vgC_ibEoh\\~dqFo{vA_bxBoggAnljB_yF_i_I_ieA_uu@_vJncvB_`qA_w|AokXonnGne`@~n}@~lV~f^"]
+}, {
+    "id": "JO",
+    "label": "Jordan",
+    "shape": ["_kerD_cktEobd@_|Boz{J_t`BoylDotL_ry@_pR~eiAolgFo~oEoz{JnfoFoaoA~~{BnvjLngdEoj`E~s`B~s`Bne}CnhvGoe`@nxwE"]
+}, {
+    "id": "KE",
+    "label": "Kenya",
+    "shape": ["_je[_pjzEnikF_fzT_{jD_buFnp{@ou{Enr_F~trD~sqUo}@~f{C_klBnj`E~x`GnqgK~bjEoocFnpuH_t`Bn}@_seK~vmU_zuEn}@_q~I_zuE_cdMngdEodkAodkAo}@ovmH"]
+}, {
+    "id": "KU",
+    "label": "Kuwait",
+    "shape": ["_hfvDoipcH?o}@nxzAo|k@ne`@~yxAnbaDotiColjBnflJ_urD_bxB?_msC"]
+}, {
+    "id": "KG",
+    "label": "Kyrgyzstan",
+    "shape": ["_eq`Go|thN~paFn|bLnzDnikF~{_C~pdBoe`@n_bHn~oE~jiFoqPnrpYofrBo|k@onT_gxG_hpBovjL_poC~``H~|tAnvs@oaoAnfoFozaCo{sEowHnp{@oinB_jwCnaoAouxIo`zB_vJ_db@otiC~_qA_`|\\~dtB_cjE"]
+}, {
+    "id": "LA",
+    "label": "Laos",
+    "shape": ["o`xxAozloS~kaAnvmH~|tA_vJ_`qAn_eDoz~Fo~rAo|hDnylDom|DnzDostD~x`GncvB~rkCodkAnfrB~~{BnocFotcK_ieAnzD~iwCo`zB_sNobd@nu~A_hmF_`nEn~rA__|Bo~oE~}i@obd@oinB~{_C_acDnylDobd@nbd@ob~G~}i@~wq@~|tA_etBntiC~yuEn}}Boz~F~whL_~cH~eiAokuC~qy@~tu@nrbB_qdB~jlBnh\\"]
+}, {
+    "id": "LG",
+    "label": "Latvia",
+    "shape": ["_mnwIofr_C_t}E_|_C_db@_{jDnhyC_neFosw@_bxBocvB~oRo_h@_l~D~mhB_guK~zm@ou~Anr_Fop{@~v|A~toHo`zBnmyH~}i@nnbW_ieA_|B"]
+}, {
+    "id": "LE",
+    "label": "Lebanon",
+    "shape": ["oc}iE_`lxE~f^~pdB_uoHo|hDn{vAo}}BnpxD~hbE"]
+}, {
+    "id": "LT",
+    "label": "Lesotho",
+    "shape": ["~npxD_yegDokuCnljB_ffE_uoHnzaC_~fDn`zB~wq@~ooCn{sEoyo@~pdB"]
+}, {
+    "id": "LI",
+    "label": "Liberia",
+    "shape": ["__af@ni~`AoofB~xcC_uoH_hmF~iZohyCnj`En}@_af@_ffEnalE~iZnzaColgFn_bHnnTokoK~r_S"]
+}, {
+    "id": "LY",
+    "label": "Libya",
+    "shape": ["_rxhDojv{@ouuMnaoA_t`BozaC_ozD_sNonqC__yFoqmC~xFnkuC_}eUngdEofrB~vyE_ywRofrB_`nE_y`G_|BonqC_xkH~~xFompT~``H~|tAnuzp@osw@~reK??~hbE~s`B?onbW~nyo@n{vA~hbEndkAnkuCovpD~ntL_jwCn~rAop{@nz~F_xkHn_eD_ieAoxzAoz~F_sN"]
+}, {
+    "id": "LH",
+    "label": "Lithuania",
+    "shape": ["_bsvI_yqwCn`zBomyHndkAo_h@naoAndhEntiC?n_h@ng~LoaoAntiC_nhBowHojcAnkrG?ne`@obaDn_h@_~i@onbW"]
+}, {
+    "id": "LU",
+    "label": "Luxembourg",
+    "shape": ["_xgqHovxc@nwH_pRnzaCo|k@oqPnljBo`zB_~i@"]
+}, {
+    "id": "MK",
+    "label": "Macedonia",
+    "shape": ["ofuxF_la~Bom|Dn|k@_}tA_tzI~k~DoinB~v|A~x}JowH~f^"]
+}, {
+    "id": "MA",
+    "label": "Madagascar",
+    "shape": ["nixhA_sglHnshTo~oE~bmA~wq@_`qA~mhBn`wF_g^~_mp@~ofO~{_C~~uJ_etBnlgFohpO~iwCodbM_eqFoieN~mhB_||F_qdBo_h@_piKojcA~iZoe`@_{jD_jwCo|k@~|tA~{B_laAoinBoocFnqPoe`@obaD_ibEn}@_laAo`zB"]
+}, {
+    "id": "MI",
+    "label": "Malawi",
+    "shape": ["~gzhAoe~rE_|BnzDowH_|Bn}@ozD~uJ~{B", "~pnhA_vhrEozD~{B?ozDnzDn}@", "no|x@oueiE~zm@_kiF~jfJ__|BnfrBnfrB~meFobd@nvmHotfGnu{EnnTnofBnzaC~gpBoh\\ofoFndhEowbG_xq@ozDnylDoofBnaoA_cmA~mhBocsFo|hDob~G~qy@om_Ao{vAor_F~lsC~rNobd@"]
+}, {
+    "id": "MY",
+    "label": "Malaysia",
+    "shape": ["owjf@oeieR~c_Dou~AocvB_ozD~olGoz~Fn}wJozD~toH_acD_uu@~n}@~eiAn{vAosqHnprL_fzTnr_FozD_qdB", "_ddg@opygUoaoAodkA~dtB_klBnu~A~zm@_g^orbB~eiAnwH~kaA_y`Gn{vA~s}E~mhBoaoA~cb@~nzDonT~wkHnskPn_bH_jZnewKninB~~{Bnh\\n`wF_hmFnvpDnqmCo{pI_{m@~eiAoxwE_}tAoxzAosqHohvGo{sEninB_nhB_{jD_fiA~rNo}@nrbBop{@ou~A~lV_pRntL_a}KomyH~|tAozD"]
+}, {
+    "id": "ML",
+    "label": "Mali",
+    "shape": ["occeAn_as@_ibEn`zB~dtBn_bH_qdB~rkCo~iMn|hDoylDonqC~mhBofrBofrB_uoH~`f@__mV_n~x@~|qE?ouxIn_s[o_jg@nu~AohvG~`cD_pRoe`@_urD~s`B?~kxLnwHndhE~xcC~|tA~r_S_g^nm|DnhyC~yrI~vyEnm|Dom_A~pdB~jiF~yxA~yxAn_eD~lpGnyo@~zm@nfrB_nhBnkXnfrBnnqC_|B~k~D_acD~n}@~xFndkA_qdBoh\\"]
+}, {
+    "id": "MT",
+    "label": "Malta",
+    "shape": ["_bsyE_wzwAozDnbd@okX~xF~f^o|k@", "oexzEobbvAowHnqPnzD_g^~{BntL"]
+}, {
+    "id": "MR",
+    "label": "Mauritania",
+    "shape": ["oon~C~wsg@nu{EoihJ?nuxI~m~x@_}qE_af@~~lVnfrB~toH_nhBnfrBnylDnnqC_enJnb{K~lVn}wJ~yxAnyo@odeIou~A_l{HnxzAo|hDop{@_rvD~rkC~bmAnkX_hpB_pR?oikF?_dvOovmHnnT_klBoxwEo`qN??okiSo}zF?~paFoqgK"]
+}, {
+    "id": "MP",
+    "label": "Mauritius",
+    "shape": ["nzd|Bock~I_vJnvs@_zxA_o}@~pdBnwH"]
+}, {
+    "id": "MD",
+    "label": "Moldova",
+    "shape": ["ok}|G_esjDokrGn_bHobd@ou{E~yxA_plG~meFoe}C~_qAoe`@oqPnu{EndhE~iwC_mpGnqP"]
+}, {
+    "id": "MG",
+    "label": "Mongolia",
+    "shape": ["_ql{G_jpjPo}zFnpxDosw@~itGoj`Ene}C_i_I__jZ~|qE_ns]_klBopxDotiC~yxA_t}E_zuEne}CoqaS~lsConTnyo@ofrB_|B_nyUngdEo`tJ~cb@_rpLou{E_onTn{vA_wsMn`tJ~vyEnvs@_tzI_laAoocFnz~F_shG~oR~jcNnldJ~gaV_laA~ecIntiC~jlBnweC_nhBnvpD~zgHnp{@nacQnylD~m_N_zuEnmmXowH~afZ_uoH~nzD_ozD~xqZotfG_mV"]
+}, {
+    "id": "MJ",
+    "label": "Montenegro",
+    "shape": ["omybG_ntoB_rvDokuC~axB_wyEnm_A~tu@_vJ~_qAnkuC~tu@_etBn|hD_mV~xF"]
+}, {
+    "id": "MO",
+    "label": "Morocco",
+    "shape": ["oqwfEnqfv@_y`G_otL_zrIoylDokX_qdBnkuC_l~Dovs@ohvGnm_A_jwC~kaA_zxA~rbOoinBnaoA~rbOnqmCobd@~kxL~jw]~bjE??~{mZ_wvIoxnQ_poC_t`B__yFne`@__yF_msC"]
+}, {
+    "id": "MZ",
+    "label": "Mozambique",
+    "shape": ["nhibA_devFncdZoqPn|eH~}cHnylDnmvLngdEnfrBnm|DntfG_{m@~tu@nw|NostD~dnJnwH~}cHnklO~dqF_sNo}@~lsC_{jD~f^_~cHowHokoK~rkCo~oEolgF_mpGoofB_ibE~n}@odeIosw@_klBn}@_vgC~~rN_fiA?o}}Bn_h@om|Do{jQnofBoaoAnzDoylDnwbG~wq@nfoFodhE_hpBnh\\oofBozaCou{EonTovmHntfG_neFnbd@ofrBofrB~f^oieNocsF_`eQnljB_vJ"]
+}, {
+    "id": "BM",
+    "label": "Myanmar",
+    "shape": ["_d~kDoo~sQ~f{CoylD~wnD_sN~iwCntL~vyE~paF~f{Cn}@_~i@otfGnm|D_yFnyo@__|B~iwCnaoAnnT_g{C~axBoyo@_jZ_rvD~gmF~_nE?n}@~mhBnnkK~dqF~tu@n}@~_qAnyfL_rsH~x`GnqmC~udGom|D~arJou~A~``H~trDnggAnbd@_}nI_laA_blRn{sE_cgI~uJntL~heA_ozD~s`BnnqC~oR_pR~mhBn~oEne}CoaoAntL~heAnrbBoxzA_jZ~bmA~kaAou~A~{B~eiA~eiAopuH_ieAo`tJ~axBoxzA~wq@nqP~dtBotiCnwHn~rA~}i@ostD~dtBostD_laA_uu@_etB_nbJ_jZ~}i@oe}CobxOoj`E_|_CoalE~cb@opxD_qdBnyo@ocvB_zxA_mV_zxA"]
+}, {
+    "id": "WA",
+    "label": "Namibia",
+    "shape": ["~exjB_{amCozD_af@otLo_bH~zm@osw@nweC~h_Iou~A~n}@~n}@ndbM~vmU?n}@nj`E~`zO?n{gU?nu~A~mbJ_af@~iwC_ycC~kaAnljBninB_buF~jiFosb\\~iwCo`hZnhpOobaDnwH_ry@okrGnxzAobaDozD_bfZn`zB_wsM_ieAoryM"]
+}, {
+    "id": "NP",
+    "label": "Nepal",
+    "shape": ["odjiDoh|sNostDnqgK_shGom|D_jZo~oE~m_NotzVn}@o__Ln|eHnkXo_h@n|bL_rvDn~lIne`@~}fDoinB~gmF"]
+}, {
+    "id": "NZ",
+    "label": "New Zealand",
+    "shape": ["nbgvF_v`~_@~f{Coyo@op{@oikFnnqCnzDn_bHnyiH~axBom_A~v|A~p~I~wkHnrbB~f{CnuxIozaCncmNow_KocpJ_t}E_twMoqgK_y`G_fiAonqC", "~peqE_{c_`@~gpBo|k@n_h@oalE~k{HoofBndkAoqmC_msCn|k@nvs@ou~AnylDoh\\nggAoocF_ry@okrGnvmH~{_C_vJ~}fD~k~D~}i@nhvGn|eHom_AnqmC_neFoinBoe}CnkrGoxzA_acDo~oE_fiA_ycC~_qAo}@_laA_klB~ugCovs@_o}@_ieA~dtB~mhBoe`@_acD~xcC_xq@_xq@_pRninBotiCnggA_vJ_o}@"]
+}, {
+    "id": "NU",
+    "label": "Nicaragua",
+    "shape": ["_xlzA~x`{No}@onT~j`R~ugCnpxD_db@oqP~fxGotL~dtBoldJ~reK_sNodkA_nbJoxqMoe`@odeI"]
+}, {
+    "id": "NG",
+    "label": "Niger",
+    "shape": ["oqypBoa}X_t`B?_ry@_uoHo|yW_`vd@nvpD_otLodkAokuC~}cH_af@nr_F_g{C~z~SnrbBno}M~oiK~ooC_g^n}}BnocF_o}@~yrInfrBn{sEoljBno`JnjcAnylDonqC~_nEnvs@n{pInr|I~mhBotiC~lsC~s`B~|tAohyC~wq@_ieAnr_F_ry@_ry@ojcAnweC_hmF~heA_}tA_s_SodhE_ycC_lxLowH"]
+}, {
+    "id": "MU",
+    "label": "Oman",
+    "shape": ["_bfwC_i`uI_yFom_A~bjEohyCnp{@oezG~lpG_kiF~mbJn}zFnbd@nweCncsFnzD~}i@nj`E~c_D~yxA~oRnvpDne}C~bmA~eiAn}wJ_}kMnxwE_ibE_}hQ_seKozaC_vgCnxzA_otL_acD", "_j_`Dow`wI~ooC~oRo}@nqP_`qA~oRop{@osw@"]
+}, {
+    "id": "PM",
+    "label": "Panama",
+    "shape": ["ocly@~o~cN~wnDoewKnqmCoh\\ntiCnzaC_d_D~mhBojcAosw@nyo@_ieAoj`E~jiFnstDn_bHnweC_w|A~tu@~|tA_urDnz~FnkX~paF_gxGnzDoqPoggA~jlB_o}@~}i@_cjEohyC_zrI"]
+}, {
+    "id": "PP",
+    "label": "Papua New Guinea",
+    "shape": ["nguX_ke`\\ncsF~iZ~c_Dnj}H_etBn|bL_jZ_uoHoofBo_h@~mhBotL_vJ_msC_hpB_msCotiCne`@n}@oqmC", "nacQo{_aZn_eD_v~N~k~DofoFnweCozD~v|Ao~lInweCodkAnqPnvpDntiC_~i@ncvB_ozDngdE_zxA_vJotiCn{vAnqP~f^ohyC~_qA~oR~cb@om|DnxzAnzaColjB~kxL_jqK~gjJofrBnsqH~qy@np{@om_AnljBnrbB_ry@_sN~dtB~kaAoyo@o}@nb~G~zm@om|D~jlB_~i@~oR~bdM_mxf@n}@~heAoylD"]
+}, {
+    "id": "PA",
+    "label": "Paraguay",
+    "shape": ["~hsuCnirjInylDnvs@n|hD~oR~hbE~bjE_mV~qmPouxI_ffEoggA~cb@oqjGnwyRosqHnj}HozxN_xnD_ry@_sbO~c_D_rvD~~uJoe`@~`f@_~`LndeI_}tA_yF_ibE~lsC_sN"]
+}, {
+    "id": "PE",
+    "label": "Peru",
+    "shape": ["~o}Zn`l_N_qaFoggAocpJ_~}O_klB_laA_~fDnaoAn}@_laAncsFo{pI~s}E_ycC_ieA_neF~heAokrGn`wFn~rA~yxA_msCoqPne}Cnm|D~fuKnwbGnvs@n{sEnylD~fxGoalEn~rAnyo@~rN_acDnrbBo|k@oinBoj}H~qsH~lV_vJ_`nEnvmH_xnD~j`RnnqC~rkC_etBnocF~xcC~`cDnvpDouoU~bu`@ozff@~stQob~Gnj`EozaCnlgF_}tA_ry@_vdG~_qAostDopxD~_nEnkXo}@_d_D~gpB_etBo~rA_laA"]
+}, {
+    "id": "RP",
+    "label": "Philippines",
+    "shape": ["oviw@ocj`Wnz{J_nhBngdE~bmAom|D~mhB~bgI~zm@oofBnh\\_mVn~oE_qaF_sN_}tAnfrBnofBn_eDou~An_h@~iwC~ugCom|D_ry@okuC_qaFnyo@_}tAnofBnh\\_nhB_`nEorbBotLo}@otiC_g{CntL~gpBocvB", "o{i|@_owvV~_qAnnT_pR~gpB_o}@oweC", "olz`A_ycqV~vvInljB_rvD~jlB_urD_t`B~oRocvB", "_{zbA_t}sV~ooCo}@nm|D~rkCo~lIotiC", "_zedAoxlxU~`cD_af@nyfL~dkNomvL_a}K_fiAnqP~zm@_{m@_bxBowH", "oa|cA_wvwVnqPodkAnocF~{Bo|eH~rkCnyo@ojcA", "_u_gAo``iV~`f@_urDn~rA~{BnnqCnlgF_vdGnqP_yF_fiA", "_ilkA_rsvV~uJ_acDnezG_zxA_zxA~trDoalE~eiA", "obkjAohyqVn`zBoaoAou~AnljB~qy@nggA_vgC_sN~wq@o~rA", "_ygqA_cy_Vnm_A_jwC~trD~tu@oikF~trD_yF_`qA", "o}ipB_rbcV~uJ_l~DnkrGosw@nuxInr_F~paFojcAnvs@_t`B_}tA_w|AnzaCodkA_`qA_{m@~qy@_hpBn_h@ndkA~pdBozaC~pdB~lV_mpG~zgH~iwCowH_g{C~}fDnbd@n{sEo|hD_ry@oh\\n|hDoyiH~qy@~f^o`zBoafMoh\\_sNoweC"]
+}, {
+    "id": "PO",
+    "label": "Portugal",
+    "shape": ["ovp~F~p`q@_sNomyHnggA_cmA~jlB~ooCntfGnqP?nrbB~~{B_hpB~szI~v|An|k@~toHonnG_o}@o}@nrbBoofB_af@~zm@~s`B_vaK_d_D_buFnqP~rNoljB"]
+}, {
+    "id": "QA",
+    "label": "Qatar",
+    "shape": ["_`|yC_omyH~lsC~qy@okXndkA_||Fo_h@~iZoofBnofBnwH"]
+}, {
+    "id": "RO",
+    "label": "Romania",
+    "shape": ["_pzxGoyo}BouxI_{dL~zm@onkKoljBo~lInkrGo_bH~lpGoqP~zm@oezGndkAnnT_mV~xcCnlgFnsw@_cmA~wkHnxzA~qmP_nhB~}cHou~A~`f@otL~|qEoggAonT_ozDncsFotLoxzA"]
+}, {
+    "id": "RW",
+    "label": "Rwanda",
+    "shape": ["ndbMorxuDn{vA~oR_|BnbaDotfG_hpBom_A_{jD~efEoaoA~n}@~n}@oqP~axB"]
+}, {
+    "id": "WS",
+    "label": "Samoa",
+    "shape": ["~gqtAnliu_@oh\\n`zB_vJ_{m@n_h@odkA", "nwiqAnkqz_@~n}@_sN_uu@ninB_yFou~A"]
+}, {
+    "id": "TP",
+    "label": "Sao Tome and Principe",
+    "shape": ["_|B_mxf@_{m@nwH_jZ_~i@~eiAne`@", "_uoH_fhl@owHnqPoqP_sN~iZo}@"]
+}, {
+    "id": "SA",
+    "label": "Saudi Arabia",
+    "shape": ["_cfqD_k}oG~oRoldJnljBoflJnstD_`qA~nzD_y`G~~{Bne`@n`wF_acDnkXodkA~heA_ieA~x`G_ibE~zm@_v~N~ugCoxzA~reKnzaC~hbE~|hQnqmCnzuRnqdO~p{MoalE?_poC~gjJowH~paF~|qE~pdB_dsSnnkK_vdG~qsH_mjOnqmCofrBngdEouoU~h|LozDnfrBo`wFodkAne`@oxwEoe}CohvG_t`B_t`BogdEnj`E__|BovjL~bjE_oqPn`tJ_sbO"]
+}, {
+    "id": "SG",
+    "label": "Senegal",
+    "shape": ["oodxAnrtgBoh\\ndkA_||FogdE_zxAoyo@_mVo}wJ~dnJob{Kn~iMo|hDovs@~_hM?ne}C~heA~tlLorbBowbGnvs@nqjG_t`Bo}@_pR_rvDobd@o}@_|BorbBo|k@_db@nbd@oz~F_`qAn`wF~zm@~}cH_hpBo_h@~f^~_qA_etBnggA"]
+}, {
+    "id": "RI",
+    "label": "Serbia",
+    "shape": ["_owbGo|nyBom_A_uu@_bxB~vyE_nhBodkAoe}C~gpBoggA_fiA_ycC~dtB_af@_gxG~nzDocsFnggAnnTntL_}qEnu~A_af@ndkAnp{@~~{Bo`zBn|hDn`zB~|tA~szI_ycC~pdB"]
+}, {
+    "id": "SE",
+    "label": "Seychelles",
+    "shape": ["~t`\\_t~qIokX~f^_sN_sNn_h@_sN"]
+}, {
+    "id": "SL",
+    "label": "Sierra Leone",
+    "shape": ["_c`|@nmlcA~qvD__|B~lsCnkXobd@o~rA~toH~gmFom|Dnb~Gou{E~kaA_~fD_acDonTocsF"]
+}, {
+    "id": "SN",
+    "label": "Singapore",
+    "shape": ["_plGopuyR~uJnjcAonTotLnwH_uu@"]
+}, {
+    "id": "LO",
+    "label": "Slovakia",
+    "shape": ["_|adHochhBn}@~rNocvB~}i@_xnD_brJ~|tAorsUnzaCnaoAoh\\n_bH~f{C~reK_xq@nkrG"]
+}, {
+    "id": "SI",
+    "label": "Slovenia",
+    "shape": ["o{~zG_uvrA_laAoxqMndkA_t`B?~xF~wq@~trDnhyC~v|AowH~qsH_mVokX_vgC~kaAo|k@_laA"]
+}, {
+    "id": "BP",
+    "label": "Solomon Islands",
+    "shape": ["~xv}@ov_y]~jlB_acDorbBnxwEowHovs@", "nxpx@_heo]n~rAoylD_vJ~hbE_w|An|k@nnT_laA", "no_u@omnu]nhyCoaoAoz~F~f{C~pdBodkA", "~jhq@obba]~eiA_db@_fiA~dtB?_`qA", "n}yq@ousn]~zm@_yF_ffE~lpG~iwC_shG", "~ttk@o`{_]_pRnu~A_hpB~s`B~xcCoj`E"]
+}, {
+    "id": "SO",
+    "label": "Somalia",
+    "shape": ["_mcbA_vaeGoxzAop{@~efEodhEnzD_bxB_uoHonyb@~iZorbB~lpGnvs@o}@_cmAnkXnrbBnylD~uJnui]nmsPncgV~afZ~bdMn}wJ_g{C~jlB_tqUn}@or_F_urDovpD_tzIo}@_buF_n|Q_wpQogdE~ihWoikF~paF_jwCoqP"]
+}, {
+    "id": "KS",
+    "label": "South Korea",
+    "shape": ["oi}hFoonoWn`wF_xnD~qsHo}@~meF~nqP_d_Dnp{@ostD_bxB_|_CnnqC_af@o|hD_urD~qy@_g{CodeI~qy@oe`@"]
+}, {
+    "id": "SP",
+    "label": "Spain",
+    "shape": ["o_dlD~kvbBndkAnm_A_ieA~zm@ozDoinB", "ownqFowyRnxzAnbd@_ry@~ugCoe`@oylD", "_{ajG~c~n@~bmA_obd@~lsCozuRnqPovs@ntL_d|GninB?~`cD~qpLnj`EnvpD~dtBndkAntiColjB~vyEnstD~zjDnkrGn}@njzL~jlBnstD?nzD_|B~xcC_ycC~n}@odkAn~oE_tzI_w|A__|B~gpB?orbBotfGoqP_klB_poCoggA~bmA~rNnmyH_sNnljB_kiF~yxAocvBotfG"]
+}, {
+    "id": "CE",
+    "label": "Sri Lanka",
+    "shape": ["_duz@ov|hN~pdBoljB~lsCop{@n}@o|k@~jiF_qdBn_eD~}i@~pdBn~oE_o}@~mhB_kfJnjcAo|eHojcAnh\\_klB_ry@~xcC_yF_laA"]
+}, {
+    "id": "SU",
+    "label": "Sudan",
+    "shape": ["_{geCoq}~D?_oe`@~gdR_nhBn|hDoocF~trD~nwHnycP~yxAnvmH~bmA~zjD~bjE~yuE~zm@~cb@ninBnw_Kne`@~lVn|hD~mhB~wq@~dqFo~lI~iqK_eqFn}@nvmHndkAndkAnxzA~v|A~wq@~ofOor_F~gmFnjcA~~xFoqmC~wnDovgPnsnL_~fDn{pI_qaFoh\\oalE~f{C_`kI~bmA_db@~~{B_azOoxwE_jZ_`nE_eeV?_t`B??_ibE_seK??owjf@"]
+}, {
+    "id": "NS",
+    "label": "Suriname",
+    "shape": ["_vob@nqnoI?_zuEnxzA~iZ~dtBnp{@~{|F_w|A~vyE~dtB_af@nqjG~~{BotLowHninBohsK~qsH_a`H_g{CorbB_uu@~cb@_kfJ"]
+}, {
+    "id": "WZ",
+    "label": "Swaziland",
+    "shape": ["ntq_D_dr{D_klBo~rAn_h@__|B~zjD_g^~v|A~iZ_mVnbaDoylD~wq@"]
+}, {
+    "id": "SW",
+    "label": "Sweden",
+    "shape": ["oqoaLowbdCn`zB_hjJnxzA~zm@nzaC_hpBnu~AnjcA~s`BorbBnqP~vsMne`@o~rAn_h@~qvD~`f@_ieA~n}@~gpB~eiA_nhBninB~f{Cn{sEn}tNo_h@nrbBndkAojcAnnT~rkC~wq@_o}@~~xF~s`BnlgFo}wJ~_qA~s}EoxzAnjcAnggA_jZowHn~lI~zm@_shGotLo`wFnweC~m_Nnh\\onqCn}@nofBnvs@oaoAnp{@~bmA~_qAovs@~olG~c_DotLnocFnkuCnrbBo}@nikF_xnDnofB_laA_}tA_`nEnlgF_bxB_pR_sN~dtB_etBnqPn}@_o}@_~fDodkA_xq@ozaCoylD~tu@_ieAo}}BoggA~ooCoihJ_|B_}tAoihJo{vAokXonT~yxAoqmCobaD_d_Do}@oh\\om|D_l{H_buFowHor_F_klBo_h@ne`@oihJo{vAoaoAoyo@nyo@_|B_w|Anu~AofoF"]
+}, {
+    "id": "TW",
+    "label": "Taiwan",
+    "shape": ["_}tdC}up`V}{ItmPjaEjrDmyQ`kHmvUu{@mhj@zcTy|_@lxn@ep`Apd]yy\\hc@isBdwTqtE`g@meBg}GcfVn|Cava@keMquk@z|EinuAcat@ixxA}}t@mrX{_QcaQenVsfq@wxWqbVi}j@cg@acKi\\}q\\wbHr{EetQunMo~AugOteDg`I|sOolKn_Jcri@rwQmrCrv@kfOhb[`k`@dpTxqDxiX{}BbbRu{Eh``@rjPtl[`tKvbXbkQnhc@jdAlvmBrtZpoxAvfj@jllAjby@bls@llK|h`@i_AjsIzgHb_Ogc@"]
+}, {
+    "id": "TI",
+    "label": "Tajikistan",
+    "shape": ["_mhbF_yghM_~i@nmyH~iwCnj}H_hmFnqPoinB~axBntfGngaIotL~wkHogdE_etB__yF~qvDotL_zuE_nhBoxzAoqPnaoAo|hD_nbJ~n}@_fiAnjcA~_qA~iZ_etBnnT~fxGnfrBn|k@nqPorpY~`cD_g^~iZ_cjEnfoF_vJ"]
+}, {
+    "id": "TZ",
+    "label": "Tanzania",
+    "shape": ["~hbE_oj`E?_otL~reK_wmU~s`Bo}@nocFopuH~olG~_qA~qvDokuCn`tJ~f^~qsHoalEncsF~_eQ_g^nieN_kfJ~~{B_{m@~jiF_sNnbd@_hmFnyfLocpJ~gmFoihJnkXolgFokrG_~fD~wq@_o}@_o}@_ffEnaoA_vJ_kiF"]
+}, {
+    "id": "TH",
+    "label": "Thailand",
+    "shape": ["ore{B_{yaR?o}@nbd@ou~An`zB~rNozD_jwCntcK~heA__|BoocFndkAofrBocvB_skCnstD_y`Gnm|DozDn|hDoylDnz~Fn~rA~{BnnkK~lsC~f{Cn}wJ_nhBostD~}fDonTnikF_jwCokX~xFnvpDnfoFnwH~mbJn|hD~vyEoqPowHocvB~}`LoinB~trD_cgIncvB~nzD_d_Dnu~AnzD~pdB_y}Jnb~GnnTndkA_guKoxzA_a`H_urD_brJnu~A_vdGnm|D_y`GoqmCoyfL~qsHo}@_`qA_eqF_uu@_nhBonkK"]
+}, {
+    "id": "TT",
+    "label": "Timor-Leste",
+    "shape": ["ngvu@gbwyVoxaA}kb@sw]oeuCyfCghjBidSq|dBpxL}j_Ar|q@fxv@bu\\fl}AleT~aOx_c@pn~AbaR|{uAlsn@zbyAgwp@tfQ}qIspd@qce@hvIp}O|d_@uyM~eB", "bl`x@axatV`{NutWtqIirVkdx@guf@td]x_tA", "prpq@cb~|VxjE_iRi~`@ioFhfVf}WbmDha@"]
+}, {
+    "id": "TO",
+    "label": "Togo",
+    "shape": ["oxpx@_mpGn}qR_{m@~lV~|tAo_eDnzaCoqjG_af@_xeP~zjD~iZo~oE~axB~iZnpxD_bxB"]
+}, {
+    "id": "TN",
+    "label": "Tonga",
+    "shape": ["~ug`Cn~_l`@_sNn_h@~xFop{@~xF~oR"]
+}, {
+    "id": "TD",
+    "label": "Trinidad and Tobago",
+    "shape": ["_k|`A~lyrJ~{_CnqP~oRnvpD_{m@_zxAo~rA~`f@oqP_poC", "_ojcA~vbqJ~xFn_h@obd@_o}@nh\\nnT"]
+}, {
+    "id": "TS",
+    "label": "Tunisia",
+    "shape": ["_|taFoyb{@~_qAoofBom_AoweCnstDncvB~zjDozaCn~oE~vyE~hbE_{gHnqmC_yFnnqC~~xF~nzD~rN~s`BnzaCoflJ~v|Aor|InsqHonqC_msC_enJntL_`qA_}tA_af@ofoF"]
+}, {
+    "id": "TU",
+    "label": "Turkey",
+    "shape": ["_ib_G_nfuEnalE_v{Ro}@or|I_etB_plG_vJ_||FnxzAo`zB~hbE_af@~bmA_wyE~rNozDnyo@~iwCnprL_msC~xFnryM~tu@~gxa@nfrBozDnp{@nkuC_ibE_pR~wnDn}qR_d_D~vvInqmCnqjG_msCnfoF~`f@n~oE_ieAopxDntL~|qE_xq@ojcA_mVnaoAocvB_sN_ry@nj`E_cmAoqP~}i@ohyCo_h@n~rA_xnD_~i@ntL~zjD_xnD__|B_laAozuRorbBnkuC~iZ_jqKostD_dyK~uJouxI", "oal_GordfDnzD_bxB~trDodhE~rNnyiHnstDnwbG_nhBo}}Boh\\nhyCocvBofrB_ieAnvs@_ry@odhE"]
+}, {
+    "id": "TX",
+    "label": "Turkmenistan",
+    "shape": ["_`kcG_nweJ~|tAofoF~`cDokXnyo@o{pI~jiF_ycC~k~DoldJnpxD_lxLn`zB~oRnyo@~yrI~`cD~qy@~_qA~olGncvB~bmA_ieA~fxG_cjE~lVo}@nbaD_{jDnj`E_poCn__LnstD~ocSosqHotL_xq@~c_D_w|A_pR~iZoxzAo{vAnh\\n_h@~gpBoweC~tu@o`zB_af@~yxAobaD_w|A_l~D_ffEnstDnh\\n_eD~trDntLoweC~|tA_cmAoinB_af@_qaFngdEoldJntL_cjEo`zBnwHokuCor|I"]
+}, {
+    "id": "UG",
+    "label": "Uganda",
+    "shape": ["_fwX_sonE~bdMogdE~p~I~yuE~yuEo}@?~ntL~uJ~jiFnm_A~zjD_rpL_ieAo}zF_vdGom_AninB_cjEokX_xq@_pfOoxzA_w|A"]
+}, {
+    "id": "AE",
+    "label": "United Arab Emirates",
+    "shape": ["owp{C_t{uIn}@oqP~{_C_pR~xFnm_A~ntL~`cD_{m@~u~N_y`G~hbE~lV_boNo}wJ_y}J~_qA_pR"]
+}, {
+    "id": "UY",
+    "label": "Uruguay",
+    "shape": ["nztzDn_z_JoinB_af@otL_g{Cnm|D_g{Co|k@o~rA~vyE_`kI~lsCohyC~_qAn~rAnfrBoh\\nstD~iwC~zm@nyfLo{vA~f{CnzD~rkC_klB~jlB_g{C_yFozDo_h@oe`@_pR_w|Anh\\_`kIodkA"]
+}, {
+    "id": "NH",
+    "label": "Vanuatu",
+    "shape": ["nniaB_fz|^n~rAojcA__|BnfrBn_h@_{m@", "~|o{A_cay^o_h@_xq@ninB_db@~lV~v|A_ffEne`@~mhBo_h@"]
+}, {
+    "id": "VE",
+    "label": "Venezuela",
+    "shape": ["_dlfAn}yhL~pdBotfG~xcC_xq@_jZ__vJ~gpB_qaFo~rA_plGoe`@~jlBotL_zoM~`f@~bjEnaoA_ry@~{B~bmA~{_CoyfLnylDnnqCn}@omyH~qy@_g^~ugCnylD~v|Ao~rAnjcA~`cDnkuC~wq@~ooC_|_C~xcC~wq@nu~A~vvInxzAnkX_skC~~uJ~p~IonqCnm_A_|_C~}cHn__LoinBntfGoocF~n}@_}tA~~{BoinB_nhB_qaFninBoj}HoaoAnnT~p~I_xnDn|hD_yF~dnJ_jqK~iwCoqP~dtBoz{JoylD_nhBorbBobd@_|_Cnsw@n}}Bn_eDodkA~wnDnljBnkuCorbB_ry@_klB_l{H~|tAoxzA_`kI_af@~|tAoinBo_h@~s`B_xq@"]
+}, {
+    "id": "YM",
+    "label": "Yemen",
+    "shape": ["ops~Aodx}H~pxQnfnq@_bxBntiCocjR~yxA_}qE_qdBnwH_qaF~ooC_hjJnalE?oqdO_q{MoqmCozuR~|kMoxwEnggAne}C~dtBntL"]
+}, {
+    "id": "ZA",
+    "label": "Zambia",
+    "shape": ["~tdjBo}kwCntLn_bH_d|G~``HocjR?n}@_piK_~`LnzDnfrB_zxAovs@_{jDntiCozaCntLo|hD_cmAom_AnldJ_nbJnwH_jwCo}zFo}@~}i@~iwCobaDnzaC_xnD_laAonnGnm_A_jwCoofBosw@oflJ~gmFoyfLnr_F_msCnm_An{vAnb~G_ry@ncsFn|hD~bmA_nhBnm|Dn{jQn}}Bo_h@~kaAn_bHntcKncpJ_g^~szI_{m@nsw@"]
+}, {
+    "id": "ZI",
+    "label": "Zimbabwe",
+    "shape": ["n`lhBojjhEndeInsw@~hbE_o}@~lpGnofBn~oEnlgF_~i@nkrG?~pdB_bxBntfG_`nEnp{@_l~D~wkHo{pInvpD~f^_tzIotcKocpJ_laAo_bH~eiA?~ugC__sN~jlBo}@"]
+}]

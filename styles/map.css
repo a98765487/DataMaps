@@ -1,0 +1,54 @@
+body {
+	font:12px/1.4em arial,sans-serif;
+	text-align:center;
+}
+#page {
+	margin:0 auto;
+	text-align:left;
+	width:800px;
+}
+#map {
+	border:1px solid #000;
+}
+select {
+	margin-right:15px;
+}
+
+/* Results Map Tooltip.
+--------------------------------------------------------------------- */	
+.map-tooltip {
+	background-color:#FFF;
+	border:1px solid #FFF;
+	box-shadow:0 0 5px rgba(0,0,0,0.5);
+	-moz-box-shadow:0 0 5px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0 0 5px rgba(0,0,0,0.5);
+	margin:0;
+	padding:0;
+	position:absolute;
+	text-align:left;
+	width:150px;
+	z-index:750;
+}
+.map-tooltip-tail {
+	background:url("tooltip-tail.png") no-repeat 0 bottom;
+	bottom:-18px;
+	display:block;
+	height:13px;
+	position:absolute;
+	width:42px;
+}
+.map-tooltip-content {
+	padding:0;
+}
+.map-tooltip-content h4 {
+	background-color:#ccc;
+	font:11px Arial,sans-serif;
+	margin:0;
+	padding:2px 5px;
+	text-transform:uppercase;
+}
+.map-tooltip-content p {
+	font:11px Arial,sans-serif;
+	margin:0;
+	padding:5px;
+}

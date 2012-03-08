@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+		<title>Google Choropleth Map</title>
+		<link rel="stylesheet" href="styles/map.css"/>
+	</head>
+<body>	
+<div id="page">
+	<a href="index.html">maps</a>
+	<h1>Google Maps</h1>
+    <div id="map" style="width:800px;height:400px;"></div>
+	<p>
+		<select id="select-map">
+			<option value="maps/world-low.json">World, low-res</option>
+			<option value="maps/world-high.json">World, high-res</option>
+			<option value="maps/us-states.json">US States</option>
+		</select>
+		<a href="js/google-choropleth.js">javascript</a> | <a href="#data" id="data">data</a>
+	</p>
+</div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
+<script type="text/javascript" src="js/map-tooltip.js"></script>
+<script type="text/javascript" src="js/google-choropleth.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var map = new GoogleChoroplethMap('map');
+	map.tooltip = new MapTooltip('map');
+	
+	// Configure selection pulldown.
+	$('#select-map').change(function(evt) {
+		evt.preventDefault();
+		map.loadMap(this.value);
+	});
+	
+	// Configure data link
+	$('#data').click(function(evt) {
+		evt.preventDefault();
+		document.location = $('#select-map').val();
+	});
+	
+	// Load initial selection.
+	map.loadMap($('#select-map').val());
+});
+</script>
+
+</body>
+</html>
