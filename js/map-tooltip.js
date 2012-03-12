@@ -52,7 +52,11 @@ function MapTooltip(frame) {
 			});
 		}
 	}
-
+	
+	function onMouseMove(evt) {
+		update(evt.pageX, evt.pageY);
+	}
+	
 	// Bind mouse events to map container.
 	frame
 		.mousedown(function() {
@@ -68,12 +72,9 @@ function MapTooltip(frame) {
 		})
 		.mouseover(function(evt) {
 			update(evt.pageX, evt.pageY);
-			frame.bind('mousemove', function(evt) {
-				update(evt.pageX, evt.pageY);
-			});
 		})
-		.mouseout(function() {
-			frame.unbind('mousemove');
+		.mousemove(function(evt) {
+			update(evt.pageX, evt.pageY);
 		});
 
 	// Return encapsulated interface object.

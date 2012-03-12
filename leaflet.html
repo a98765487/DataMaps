@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
   	<head>
-		<title>Google Map</title>
+		<title>Leaflet Map</title>
 		<link rel="stylesheet" href="styles/map.css"/>
+		<link rel="stylesheet" href="http://code.leafletjs.com/leaflet-0.3.1/leaflet.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="http://code.leafletjs.com/leaflet-0.3.1/leaflet.ie.css" /><![endif]-->
 	</head>
 <body>	
 <div id="page">
 	<a href="index.html">maps</a>
-	<h1>Google Map</h1>
+	<h1>Leaflet Map</h1>
     <div id="map" style="width:800px;height:400px;"></div>
 	<p>
 		<select id="select-map">
@@ -15,17 +17,19 @@
 			<option value="maps/world-high.json">World, high-res</option>
 			<option value="maps/us-states.json">US States</option>
 		</select>
-		<a href="js/google.js">javascript</a> | <a href="#data" id="data">data</a>
+		<a href="js/leaflet.js">javascript</a> | <a href="#data" id="data">data</a>
 	</p>
 </div>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
+<script type="text/javascript" src="http://code.leafletjs.com/leaflet-0.3.1/leaflet.js"></script>
 <script type="text/javascript" src="js/map-tooltip.js"></script>
-<script type="text/javascript" src="js/google.js"></script>
+<script type="text/javascript" src="js/leaflet.js"></script>
 <script type="text/javascript">
+
 $(document).ready(function() {
-	var map = new GoogleChoroplethMap('map');
+	var map = new LeafletMap('map');
 	map.tooltip = new MapTooltip('map');
 	
 	// Configure selection pulldown.

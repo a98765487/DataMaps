@@ -12,14 +12,14 @@
 		<div id="map" style="width:800px;height:400px;"></div>
 		<p><a href="#" id="map-repaint">Repaint</a> (assigns new random values to all geographies)<br/>
 			<a href="#" id="map-recalibrate">Recalibrate</a> (switches color palette breaks)</p>
-		<p><a href="js/openlayers-choropleth.js">Javascript</a> | <a href="maps/world.json">data</a></p>
+		<p><a href="js/openlayers.js">Javascript</a> | <a href="maps/world.json">data</a></p>
 	</div>
 </body>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <script type="text/javascript" src="openlayers/OpenLayers.js"></script>
 <script type="text/javascript" src="js/map-tooltip.js"></script>
-<script type="text/javascript" src="js/openlayers-choropleth.js"></script>
+<script type="text/javascript" src="js/openlayers.js"></script>
 <script type="text/javascript">
     $(document).ready(function(){
 		openLayersChoropleth.init('map', 'maps/world.json');
