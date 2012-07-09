@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  	<head>
+		<title>TileMill / Modest Maps / Wax</title>
+		<link rel="stylesheet" href="styles/map.css"/>
+		<link rel="stylesheet" href="http://code.leafletjs.com/leaflet-0.3.1/leaflet.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="http://code.leafletjs.com/leaflet-0.3.1/leaflet.ie.css" /><![endif]-->
+	</head>
+<body>	
+<div id="page">
+	<a href="index.html">maps</a>
+	<h1>TileMill / Modest Maps / Wax</h1>
+    <div id="map" style="width:800px;height:400px;"></div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
+<script src="js/modestmaps.min.js"></script>
+<script src="js/wax.mm.min.js"></script>
+<script src="js/mb-mm1.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var map = new MBModestMap('map', 'http://a.tiles.mapbox.com/v3/threespot.choropleth-test.jsonp');
+});
+</script>
+</body>
+</html>

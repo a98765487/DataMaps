@@ -1,0 +1,111 @@
+<html>
+  <head>
+	<title>Google GeoCharts</title>
+	<style>
+		body {
+			background:#ccc;
+		}
+		#page {
+			background:#fff;
+			border:1px solid #000;
+			margin:25px auto;
+			width:600px;
+		}
+	</style>
+  </head>
+  <body>
+	<div id="page">
+		<a href="index.html">maps</a>
+		<h1>Google GeoCharts</h1>
+		<div id="chart_div" style="width:600px; height:400px;"></div>
+		<select id="select-view" onchange="drawChart">
+			<option value="world">Countries</option>
+			<option value="us">United States</option>
+		</select>
+	</div>
+	<script type='text/javascript' src='https://www.google.com/jsapi'></script>
+	<script type='text/javascript'>
+		google.load('visualization', '1', {'packages': ['geochart']});
+		google.setOnLoadCallback(createMap);
+	
+		var states,
+			countries,
+			options,
+			chart;
+
+		function val() {
+			return Math.round(100 * Math.random());
+		}
+	
+		function drawChart() {
+			var world = (document.getElementById('select-view').value === 'world');
+			options.region = world ? 'world' : 'US';
+			options.resolution = world ? 'countries' : 'provinces';
+			chart.draw(world ? countries : states, options);
+		}
+	
+		function createMap() {
+			states = new google.visualization.DataTable();
+			states.addColumn('string', 'State');
+			states.addColumn('number', 'Random Number');
+			states.addRows([
+				['AL', val()],
+				['AK', val()],
+				['AR', val()],
+				['AZ', val()],
+				['CA', val()],
+				['CO', val()],
+				['CT', val()],
+				['DE', val()],
+				['FL', val()],
+				['GA', val()],
+				['HI', val()],
+				['ID', val()],
+				['KS', val()],
+				['KY', val()]
+			]);
+
+			countries = new google.visualization.DataTable();
+			countries.addColumn('string', 'Country');
+			countries.addColumn('number', 'Random Number');
+			countries.addRows([
+				['Argentina', val()],
+				['US', val()],
+				['Korea', val()],
+				['Japan', val()],
+				['Thailand', val()],
+				['Russia', val()],
+				['Germany', val()],
+				['Netherlands', val()],
+				['France', val()],
+				['Spain', val()],
+				['Portugal', val()],
+				['Denmark', val()],
+				['Montenegro', val()],
+				['Monaco', val()]
+			]);
+
+			options = {
+				region:'world',
+				resolution: 'countries',
+				colorAxis: {
+					colors: ['#F00', '#00F'],
+					minValue: 0,
+					maxValue: 100
+				},
+				magnifyingGlass: {
+					enable: true,
+					zoomFactor: 7.5
+				}
+			};
+
+	       	chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+			drawChart();
+			
+			document.getElementById('select-view').addEventListener('change', function(evt) {
+				drawChart();
+			});
+		}
+	</script>
+  </body>
+</html>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   	<head>
-		<title>CloudMade + Leaflet + Vector overlays</title>
+		<title>TileMill Base + Leaflet / Wax + Vector overlays</title>
 		<link rel="stylesheet" href="styles/map.css"/>
 		<link rel="stylesheet" href="http://code.leafletjs.com/leaflet-0.3.1/leaflet.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="http://code.leafletjs.com/leaflet-0.3.1/leaflet.ie.css" /><![endif]-->
@@ -9,7 +9,7 @@
 <body>	
 <div id="page">
 	<a href="index.html">maps</a>
-	<h1>CloudMade + Leaflet + Vector overlays</h1>
+	<h1>TileMill Base + Leaflet / Wax + Vector overlays</h1>
     <div id="map" style="width:800px;height:400px;"></div>
 	<p>
 		<select id="select-map">
@@ -21,13 +21,13 @@
 	</p>
 </div>
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
-<script type="text/javascript" src="http://code.leafletjs.com/leaflet-0.3.1/leaflet.js"></script>
-<script type="text/javascript" src="js/map-tooltip.js"></script>
-<script type="text/javascript" src="js/leaflet.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
+<script src="js/map-tooltip.js"></script>
+<script src="js/leaflet.min.js"></script>
+<script src="js/wax.leaf.min.js"></script>
+<script src="js/mb-leaflet2.js"></script>
 <script type="text/javascript">
-
 $(document).ready(function() {
 	var map = new LeafletMap('map');
 	map.tooltip = new MapTooltip('map');
@@ -48,6 +48,5 @@ $(document).ready(function() {
 	map.loadMap($('#select-map').val());
 });
 </script>
-
 </body>
 </html>
