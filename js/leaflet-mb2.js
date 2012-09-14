@@ -627,16 +627,13 @@ var rs = [
 ];
 
 function LeafletMap(containerId) {
-	var cloudmade = new L.TileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/22677/256/{z}/{x}/{y}.png', {
-			minZoom: 1,
-			maxZoom: 4,
-			attribution: 'Map data &copy; 2011 OpenStreetMap contributors, Imagery &copy; 2011 CloudMade'
-		});
-	
+	var self = this;
 	this.map = new L.Map('map');
-	this.map
-		.setView(new L.LatLng(32, 10), 1)
-		.addLayer(cloudmade);
+	
+	wax.tilejson('http://a.tiles.mapbox.com/v3/mapbox.world-blank-light.jsonp', function(tilejson) {
+		self.map.setView(new L.LatLng(32, 10), 1);
+		self.map.addLayer(new wax.leaf.connector(tilejson));
+	});
 }
 
 LeafletMap.prototype = {

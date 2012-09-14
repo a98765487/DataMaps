@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>Polyline Encoding Utilities</title>
+	<link rel="stylesheet" href="styles/map.css"/>
+</head>
+<body>
+<div id="page">
+	<a href="index.html">maps</a>
+	<h1>Polyline Encoding Utilities</h1>
+	<div id="map" style="height:250px;width:100%;"></div>
+	<div style="width:700px;">
+		<h2>Polyline / Points Conversion</h2>
+		<p><label>Encoded Polyline:</label></p>
+		<textarea rows="10" style="width:100%;" id="encodedText"></textarea>
+		<p><button id="decode">Decode to Points</button></p>
+		<p><label>Points CSV:</label></p>
+		<textarea rows="10" style="width:100%;" id="decodedText"></textarea>
+		<p><button id="encode">Encode to Polyline</button> <button id="reverse">Reverse Order</button></p>
+	</div>
+	<h2>Sample Polyline</h2>
+	<p style="width:500px;font:10px/1.3em Courier,Verdana,sans-serif;">}dblComjxEnmj@idPtqd@_al@v{Hqst@zsd@irV|}BkdPzyR}zKjw`@}nr@p~@u_Nlxb@_{KrupA_{K||z@gnc@xdgB_mEdc_@idPdtgBr_N`lm@}hRvjc@rqGrgW_{KxqvBsmTbm[s{ZccGumTl_|@{trAjo[?ziQ}|x@`{k@inc@jex@f|i@fv_@ren@~gK~`l@ocErmTbnShvIdeG~re@xkx@|zKibC|byA`ydA?l_d@~hR`lp@u_NtruArwg@pmMt_Nxb~Ah`]`qOr_N|fkD_iRpt|At_Nnp{Cpa{@nku@tcA~aAria@|sMra{@`kiC|flAlub@|`l@|eXuqG|ujA~vXzyOivI`ts@hvIvr^hrVev`@ren@lc|@ra{@lpuA_{KfxM|vXju^tcA`koArmTejEh|i@ifz@s_N_ax@_mE}pI|hRu{b@tmT{eVr{Z_~d@~vXuaTpst@usKihCssxChrVqrjAidPw}h@_{KcbAfhjB`wy@rcAkeCp_uB~kq@gjp@bzaB_mEfn\ivI~e~@ff}@jpIh`]|doAfjp@f~{ArytAtmGfl}Achi@|nr@on`AzzrBl_e@|trAxo`ArcAjfC|trAzwq@ff}@bhVjhC?nihCc|s@~d_@?xrlCnkX|byAcdTp}gAmi|@tmT{|u@rst@efi@r_N`fCfppA~~Q|flAtudArqGxu^~nr@kfCfppAxnZpst@ajEhtcAghi@rqGy|nBr}gAacoAfppAch`AirV}zd@~lEhbA|d_@mjo@h|i@mulAu_N?h`]yqlAtmTmo`@idP}yQf|i@||Sra{@uwf@rmT{ju@s{Zo`o@gf}@orvArwg@eth@inc@sh`@soaAc{Uhnc@}dy@hhCyyUqa{@kzr@uqGka{@}nr@}hf@~hRepn@_se@dcCsa{@smM}`l@rmMqoaAofdY?q_AogbEcseK?u~@ggiv@wwd@_wXsyVezcBy_fBsen@l{H_or@??gf~@qknA</p>
+</div>
+
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false"></script>
+<script src="js/polyline-encoder.js"></script>
+<script>
+	var encoded = document.getElementById('encodedText'),
+		decoded = document.getElementById('decodedText'),
+		encoder = new PolylineEncoder(),
+		map;
+	
+	// Decode button.
+	document.getElementById('decode').onclick = function() {
+		var pts = PolylineEncoder.decode( encoded.value ),
+			csv = '',
+			i;
+
+		for (i=0; i < pts.length; i++) {
+			csv += (i > 0 ? '\n' : '') + pts[i].join(',');
+		}
+		
+		decoded.value = csv;
+		return false;
+	};
+	
+	// Encode button.
+	document.getElementById('encode').onclick = function() {
+		var pts = decoded.value.split('\n'),
+			latlng,
+			i;
+		
+		for (i=0; i < pts.length; i++) {
+			latlng = pts[i].split(',');
+			pts[i] = PolylineEncoder.getLatLng(parseFloat(latlng[0]), parseFloat(latlng[1]));
+		}
+		
+		encoded.value = encoder.encode(pts).encodedPoints;
+		encoder.encodeToPolygon(pts).setMap(map);
+		return false;
+	};
+	
+	// Reverse button.
+	document.getElementById('reverse').onclick = function() {
+		var pts = decoded.value.split('\n'),
+			csv = '',
+			i;
+		
+		for (i=pts.length-1; i >= 0; i--) {
+			csv += pts[i] + (i > 0 ? '\n' : '');
+		}
+		
+		decoded.value = csv;
+		return false;
+	};
+	
+	map = new google.maps.Map(document.getElementById("map"), {
+		maxZoom:4,
+        minZoom:1,
+        zoom:1,
+        center:new google.maps.LatLng(42, 10),
+        scrollwheel:false,
+		panControl:false,
+        mapTypeControl:false,
+        streetViewControl:false,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+	});
+</script>
+</body>
+</html>
