@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>Series Breaks</title>
+	<link rel="stylesheet" href="styles/map.css"/>
+</head>
+<body>
+<div id="page">
+	<a href="index.html">maps</a>
+	<h1>Series Breaks</h1>
+	<div style="width:700px;">
+		<p><label>Number Series (CSV):</label></p>
+		<textarea rows="10" style="width:100%;" id="seriesTxt">24,13,99,75,150,2,25,44,26,67,72,102,10,13,123</textarea>
+		<p><label>Number of Ranges:</label> <input type="text" id="breaksTxt" value="5"/></p>
+		<p><button id="runBreaks">Generate Breaks</button></p>
+	</div>
+	<div id="outputTxt"></div>
+</div>
+
+<script src="js/series-breaks.js"></script>
+<script>
+	var seriesTxt = document.getElementById('seriesTxt'),
+		breaksTxt = document.getElementById('breaksTxt'),
+		outputTxt = document.getElementById('outputTxt');
+		
+	document.getElementById('runBreaks').onclick = function() {
+		
+		var series = seriesTxt.value.split(','),
+			breaks = parseInt(breaksTxt.value, 10),
+			output = '';
+		
+		for (i = 0; i < series.length; i++) {
+			series[i] = parseFloat(series[i]);
+		}
+		
+		output += '<b>Equal Intervals:</b> '+ SeriesBreaks.equalInterval(series, breaks).join(' / ') + '<br>';
+		output += '<b>Quantiles:</b> '+ SeriesBreaks.quantile(series, breaks).join(' / ') + '<br>';
+		output += '<b>Jenks Natural Breaks:</b> '+ SeriesBreaks.jenks(series, breaks).join(' / ');
+		
+		outputTxt.innerHTML = output;
+	};
+</script>
+</body>
+</html>
